@@ -2,7 +2,7 @@
 (() => {
   'use strict';
   const config = JSON.parse(document.querySelector('#pages-config')?.textContent || '{}');
-  const base = config.base || '/HEOA/';
+  const base = config.base || '/';
   const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const local = href => href.startsWith('/') && !href.startsWith('//') ? base + href.slice(1) : href;
   document.querySelectorAll('img').forEach(img => {

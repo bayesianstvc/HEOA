@@ -2,11 +2,13 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const Module = require('node:module');
-const [sourceArg, outputArg, baseArg = '/HEOA/'] = process.argv.slice(2);
-if (!sourceArg || !outputArg) throw new Error('Usage: node export-pages.cjs <site source> <new output directory> [/HEOA/]');
+const { normalizeBase } = require('./deployment-config.cjs');
+const [sourceArg, outputArg, baseArg = '/', originArg] = process.argv.slice(2);
+if (!sourceArg || !outputArg) throw new Error('Usage: node export-pages.cjs <site source> <new output directory> [base path] [site origin]');
 const source = path.resolve(sourceArg), output = path.resolve(outputArg);
 if (fs.existsSync(output)) throw new Error('Output must be a NEW directory; existing artifacts are preserved.');
-const base = '/' + baseArg.replace(/^\/+|\/+$/g, '') + '/';
+const base = normalizeBase(baseArg);
+const origin = new URL(originArg || (base === '/' ? 'https://heoagroup.org' : 'https://bayesianstvc.github.io')).origin;
 const req = Module.createRequire(path.join(source, 'package.json'));
 const ts = req('typescript'), React = req('react'), { renderToStaticMarkup } = req('react-dom/server');
 const cache = new Map();
@@ -78,7 +80,7 @@ async function main(){
     const title=item.title || body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1]?.replace(/<[^>]+>/g,'') || 'HEOA｜健康服务与产业组织研究';
     if(Object.keys(routePayload).length){const dataPath='pages-static/data/'+(item.route==='/'?'home':item.route.slice(1).replaceAll('/','--'))+'.json';write(dataPath,JSON.stringify(routePayload));body+=`<script type="application/json" id="pages-config">${JSON.stringify({base,data:base+dataPath})}</script>`;}
     else body+=`<script type="application/json" id="pages-config">${JSON.stringify({base})}</script>`;
-    const html=`<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escape(title)}｜HEOA</title><meta name="description" content="HEOA 健康服务与产业组织研究，健康城市发展研究中心。公开静态网站。"><link rel="icon" href="${base}favicon.svg"><link rel="stylesheet" href="${base}pages-static/styles.css"><link rel="canonical" href="https://bayesianstvc.github.io${base}${item.route.slice(1)}"></head><body>${body}<script defer src="${base}pages-static/runtime.js"></script></body></html>`;
+    const html=`<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escape(title)}｜HEOA</title><meta name="description" content="HEOA 健康服务与产业组织研究，健康城市发展研究中心。公开静态网站。"><link rel="icon" href="${base}favicon.svg"><link rel="stylesheet" href="${base}pages-static/styles.css"><link rel="canonical" href="${origin}${base}${item.route.slice(1)}"></head><body>${body}<script defer src="${base}pages-static/runtime.js"></script></body></html>`;
     write(path.join(item.route.slice(1),'index.html'),html);metadata.push({route:item.route,title,bytes:Buffer.byteLength(html)});
     if(metadata.length%50===0)process.stdout.write(`Rendered ${metadata.length}/${routes.length}\n`);
   }
@@ -86,8 +88,8 @@ async function main(){
   write('pages-static/missing-figure.svg','<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300"><rect width="960" height="300" fill="#f4f1ec"/><rect x="1" y="1" width="958" height="298" fill="none" stroke="#ded8d1"/><text x="480" y="140" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24" fill="#6f6864">原始备份中的该幅图像暂缺</text><text x="480" y="182" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="17" fill="#6f6864">保留原文与图注，待补充真实图片</text></svg>');
   write('recovery/unmatched-source-reference.html',`<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>历史资料引用｜HEOA</title><link rel="stylesheet" href="${base}pages-static/styles.css"><body><main class="article-page"><h1>历史资料引用暂未收录</h1><p>该链接来自原站历史文章，现有离线备份未包含其目标资料。为避免误指向其他内容，保留此说明。</p><p><a href="${base}search/">全站搜索</a> · <a href="${base}research/">学术研究</a> · <a href="${base}">返回首页</a></p></main></body></html>`);
   write('404.html',`<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>页面未找到｜HEOA</title><body><h1>页面未找到</h1><p>请从<a href="${base}">首页</a>或<a href="${base}search/">全站搜索</a>查找资料。</p></body></html>`);
-  write('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${metadata.map(r=>`<url><loc>https://bayesianstvc.github.io${base}${r.route.slice(1)}</loc></url>`).join('')}</urlset>`);
-  write('pages-static/export-manifest.json',JSON.stringify({schemaVersion:1,base,contentCount:content.records.length,pageCount:metadata.length,heoaMembers:content.heoaMembers.length,centerMembers:content.healthyMembers.length,routes:metadata},null,2));
+  write('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${metadata.map(r=>`<url><loc>${origin}${base}${r.route.slice(1)}</loc></url>`).join('')}</urlset>`);
+  write('pages-static/export-manifest.json',JSON.stringify({schemaVersion:1,base,origin,contentCount:content.records.length,pageCount:metadata.length,heoaMembers:content.heoaMembers.length,centerMembers:content.healthyMembers.length,routes:metadata},null,2));
   write('pages-static/link-repairs.json',JSON.stringify({repaired:linkRepairs.length,unresolved:unresolvedLinks.length,linkRepairs,unresolvedLinks,missingMedia},null,2));
   const references=new Set(['favicon.svg']);
   const collect=dir=>{for(const ent of fs.readdirSync(dir,{withFileTypes:true})){const f=path.join(dir,ent.name);if(ent.isDirectory())collect(f);else if(/\.(html|json|css)$/.test(f)){let text=fs.readFileSync(f,'utf8');if(f.endsWith('.json'))text=text.replaceAll('\\"','"');for(const m of text.matchAll(new RegExp(base.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'((?:media|media-web-v24|portraits-v24|brand|team-v23|assets)/[^\\s"\\\'<>]+)','g'))){references.add(m[1].split(/[?#]/)[0]);}}}};

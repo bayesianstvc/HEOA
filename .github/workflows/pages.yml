@@ -23,8 +23,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v5
-      - name: Check exported homepage
-        run: test -s pages/index.html && test -s pages/team/index.html
+        id: pages
+      - name: Check site address and local assets
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: node scripts/audit-pages.mjs pages
       - uses: actions/upload-pages-artifact@v4
         with:
           path: pages

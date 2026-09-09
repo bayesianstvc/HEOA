@@ -6,11 +6,11 @@
 
 ## 在线访问
 
-- **公开预览：<https://bayesianstvc.github.io/HEOA/>**，无需登录。
-- 正式网站：<https://heoagroup.org/>。
+- **正式网站：<https://heoagroup.org/>**，无需登录。
+- GitHub Pages 原地址：<https://bayesianstvc.github.io/HEOA/>，自动跳转至正式域名。
 - 离线包与版本记录：[GitHub Releases](https://github.com/bayesianstvc/HEOA/releases)。
 
-GitHub Pages 是独立托管的静态镜像；正式网站继续由原有服务托管。文章中的外部个人主页、合作机构和专题平台链接仍访问各自网站。
+正式域名已绑定本仓库的 GitHub Pages，发布目录为 `pages/`。文章中的外部个人主页、合作机构和专题平台链接仍访问各自网站。
 
 ## 网站内容
 
@@ -37,7 +37,7 @@ LICENSE                 PolyForm Strict 1.0.0 官方许可原文
 NOTICE                  权利归属与第三方内容声明
 ```
 
-应用源码使用 React、TypeScript 和 Vinext。GitHub Pages 使用预渲染 HTML、CSS 和轻量 JavaScript，适配 `/HEOA/` 子路径，不依赖服务器端 Worker 执行。
+应用源码使用 React、TypeScript 和 Vinext。GitHub Pages 使用预渲染 HTML、CSS 和轻量 JavaScript，当前正式域名从 `/` 根路径提供内容，不依赖服务器端 Worker 执行。导出工具支持显式指定根路径或项目子路径；发布前自动核对导出地址与 GitHub Pages 实际配置，避免域名切换后样式和图片失效。
 
 ## 离线浏览与开发
 
@@ -47,7 +47,7 @@ NOTICE                  权利归属与第三方内容声明
 node scripts/serve-pages.mjs
 ```
 
-然后访问 <http://127.0.0.1:4173/HEOA/>。预览不需要安装 npm 依赖。正文、本站图片及成员资料可以离线查看；访问外部网站仍需要网络。不要直接双击 HTML 文件作为完整功能验证方式。
+当前仓库访问 <http://127.0.0.1:4173/>；先前 `v24-github-20260909` 离线包仍使用 <http://127.0.0.1:4173/HEOA/>。预览工具会读取相应导出版本的路径。预览不需要安装 npm 依赖。正文、本站图片及成员资料可以离线查看；访问外部网站仍需要网络。不要直接双击 HTML 文件作为完整功能验证方式。
 
 开发源码需要 Node.js 22.13 或更新版本：
 
