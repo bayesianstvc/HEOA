@@ -1,0 +1,1560 @@
+{
+  "schemaVersion": 1,
+  "base": "/HEOA/",
+  "contentCount": 299,
+  "pageCount": 310,
+  "heoaMembers": 62,
+  "centerMembers": 9,
+  "routes": [
+    {
+      "route": "/disclosure",
+      "title": "信息公开",
+      "bytes": 16751
+    },
+    {
+      "route": "/news",
+      "title": "新闻资讯",
+      "bytes": 36740
+    },
+    {
+      "route": "/",
+      "title": "以专业研究服务健康中国建设",
+      "bytes": 46363
+    },
+    {
+      "route": "/research",
+      "title": "学术研究",
+      "bytes": 32874
+    },
+    {
+      "route": "/search",
+      "title": "全站搜索",
+      "bytes": 16725
+    },
+    {
+      "route": "/team",
+      "title": "团队成员",
+      "bytes": 105348
+    },
+    {
+      "route": "/think-tank/healthy-cities/about",
+      "title": "中心成员",
+      "redirect": "/think-tank/healthy-cities/team"
+    },
+    {
+      "route": "/think-tank/healthy-cities/disclosure",
+      "title": "信息公开",
+      "bytes": 11723
+    },
+    {
+      "route": "/think-tank/healthy-cities/news",
+      "title": "新闻资讯",
+      "bytes": 34418
+    },
+    {
+      "route": "/think-tank/healthy-cities",
+      "title": "以研究与协同创新推动健康城市建设",
+      "bytes": 40418
+    },
+    {
+      "route": "/think-tank/healthy-cities/team",
+      "title": "中心成员",
+      "bytes": 31023
+    },
+    {
+      "route": "/content/heoa-post-12065",
+      "title": "研究速递｜加拿大儿童超加工食品消费与行为结局的关联研究",
+      "bytes": 36971
+    },
+    {
+      "route": "/content/heoa-post-12057",
+      "title": "研究进展｜ 亚洲“明智选择”倡议：基于亚洲多国实践的综述",
+      "bytes": 30200
+    },
+    {
+      "route": "/content/heoa-post-12036",
+      "title": "研究进展｜补齐边远地区健康短板",
+      "bytes": 36403
+    },
+    {
+      "route": "/content/heoa-post-12022",
+      "title": "研究速递｜收入与心理健康状况对后续身体健康状况的交互作用：一项2000年至2021年的丹麦全国性队列研究",
+      "bytes": 48680
+    },
+    {
+      "route": "/content/heoa-post-12019",
+      "title": "研究速递｜社会脆弱性与从健康发展为身体、心理和认知多病的风险：一项前瞻性多队列研究",
+      "bytes": 20694
+    },
+    {
+      "route": "/content/heoa-post-12004",
+      "title": "研究进展｜殷晓旭教授团队基于宏观经济建模量化跌倒的全球经济负担",
+      "bytes": 13075
+    },
+    {
+      "route": "/content/heoa-post-11946",
+      "title": "研究速递｜ 代谢多基因风险评分（MetPRS）：重塑代谢疾病精准防控体系的全新工具",
+      "bytes": 34876
+    },
+    {
+      "route": "/content/heoa-post-11920",
+      "title": "研究速递｜节能住宅对居民健康的影响：来自荷兰自然实验的证据",
+      "bytes": 37527
+    },
+    {
+      "route": "/content/heoa-post-11841",
+      "title": "研究速递 | 公私合营医疗保险计划对商业保险市场的影响",
+      "bytes": 53646
+    },
+    {
+      "route": "/content/heoa-post-11807",
+      "title": "会议预告丨 第六届海峡两岸暨港澳服务学习研讨会",
+      "bytes": 1165150
+    },
+    {
+      "route": "/content/heoa-post-11799",
+      "title": "研究速递｜医疗补助计划初级保健利用与区域层面的社会脆弱性研究",
+      "bytes": 394751
+    },
+    {
+      "route": "/content/heoa-post-11744",
+      "title": "研究速递｜Aging in Haze",
+      "bytes": 1646566
+    },
+    {
+      "route": "/content/heoa-post-11664",
+      "title": "研究进展｜绕过最近医院是否改善卒中患者生存结局？——来自32万例卒中患者的实证研究",
+      "bytes": 21765
+    },
+    {
+      "route": "/content/heoa-post-11499",
+      "title": "研究速递｜Lancet Public Health: 中国实施和优化健康税政策的健康、经济与财政效应",
+      "bytes": 17465
+    },
+    {
+      "route": "/content/heoa-post-11473",
+      "title": "研究速递｜国家慢性病综合防控示范区建设对居民行为危险因素影响效果评价：合成双重差分研究",
+      "bytes": 25017
+    },
+    {
+      "route": "/content/heoa-post-11426",
+      "title": "研究速递｜附加工作要求的医疗补助计划扩张对保险覆盖与就业的影响：一项准实验双重差分研究",
+      "bytes": 22681
+    },
+    {
+      "route": "/content/heoa-post-11415",
+      "title": "研究速递｜The Lancet Public Health：菲律宾对不健康包装食品征税的健康影响、成本和成本效果评估",
+      "bytes": 23231
+    },
+    {
+      "route": "/content/heoa-post-11403",
+      "title": "研究速递｜Lancet Healthy Longevity：中国医养结合政策对老年人功能依赖与照护缺失的影响",
+      "bytes": 22717
+    },
+    {
+      "route": "/content/heoa-post-11348",
+      "title": "研究速递｜影响低价值医疗提供因素的相对重要性及其相互作用：瑞典初级保健医生的析因调查实验",
+      "bytes": 28294
+    },
+    {
+      "route": "/content/heoa-post-11328",
+      "title": "研究速递｜中国糖尿病伴抑郁患者社区一体化护理（CIC-PDD）效果研究：一项实用性整群随机试验",
+      "bytes": 23779
+    },
+    {
+      "route": "/content/heoa-post-11303",
+      "title": "研究速递｜BMJ Quality&Safety：英格兰国民医疗服务体系的循证干预计划评估：一项双重差分分析",
+      "bytes": 18669
+    },
+    {
+      "route": "/content/heoa-post-11288",
+      "title": "研究速递｜Nature Medicine:基于远程医疗的农村房颤综合管理：群随机对照研究",
+      "bytes": 25487
+    },
+    {
+      "route": "/content/heoa-post-11284",
+      "title": "快讯 | 《改革内参》刊发HEOA团队成员署名文章",
+      "bytes": 14068
+    },
+    {
+      "route": "/content/heoa-post-11261",
+      "title": "快讯 | HEOA团队成员参加第二届全国信息地理学大会",
+      "bytes": 22072
+    },
+    {
+      "route": "/content/heoa-post-11249",
+      "title": "研究速递｜BMJ Global Health：家庭医生制度重塑糖尿病患者的就医轨迹",
+      "bytes": 23113
+    },
+    {
+      "route": "/content/heoa-post-11243",
+      "title": "快讯 | HEOA团队成员参加“丝路翱翔”青年领袖计划 第二届服务领导力研习营",
+      "bytes": 12160
+    },
+    {
+      "route": "/content/heoa-post-11216",
+      "title": "研究进展｜基于2.1万中国大学生数据，机器学习揭示亚临床精神病性症状高危风险因素及其性别差异",
+      "bytes": 25528
+    },
+    {
+      "route": "/content/heoa-post-11197",
+      "title": "研究速递｜Nature Cities: “15分钟城市”的量化框架",
+      "bytes": 28880
+    },
+    {
+      "route": "/content/heoa-post-11189",
+      "title": "研究速递｜中国社会科学: 中国基本公共服务均等化的理论框架与实现路径",
+      "bytes": 20879
+    },
+    {
+      "route": "/content/heoa-post-11139",
+      "title": "研究进展｜20年追踪2894个县，解锁中国孕产妇死亡时空不公平背后的行政区划尺度效应",
+      "bytes": 30077
+    },
+    {
+      "route": "/content/heoa-post-11132",
+      "title": "快讯 | HEOA团队成员参加北京大学实施科学理论与实践培训班",
+      "bytes": 12420
+    },
+    {
+      "route": "/content/heoa-post-11125",
+      "title": "快讯 | HEOA团队成员参加《中国公共卫生管理》第六届编辑委员会成立大会",
+      "bytes": 11559
+    },
+    {
+      "route": "/content/heoa-post-10988",
+      "title": "研究速递｜医疗补助制度与死亡率：来自关联调查和行政数据的新证据",
+      "bytes": 22835
+    },
+    {
+      "route": "/content/heoa-post-10890",
+      "title": "快讯 | HEOA团队成员参加2025前沿科学创新大会",
+      "bytes": 11381
+    },
+    {
+      "route": "/content/heoa-post-10897",
+      "title": "研究速递｜JPE: 如何理解大国的政策试验与政策学习",
+      "bytes": 32469
+    },
+    {
+      "route": "/content/heoa-post-10928",
+      "title": "快讯 | HEOA团队成员参加中国留美经济学会2025中国年会",
+      "bytes": 11235
+    },
+    {
+      "route": "/content/heoa-post-10937",
+      "title": "快讯 | HEOA团队成员参加健康地理前沿学术研讨会",
+      "bytes": 14951
+    },
+    {
+      "route": "/content/heoa-post-10868",
+      "title": "研究速递｜识别和衡量医院医生和行政领导所经历的行政损害",
+      "bytes": 26146
+    },
+    {
+      "route": "/content/heoa-post-10946",
+      "title": "快讯 | HEOA团队参加2025健康政策与管理青年学者论坛",
+      "bytes": 12421
+    },
+    {
+      "route": "/content/heoa-post-10950",
+      "title": "快讯 | 新书推荐-《卫生政策与管理研究定量方法应用》",
+      "bytes": 14000
+    },
+    {
+      "route": "/content/heoa-post-10958",
+      "title": "快讯 | HEOA团队成员赴德阳罗江区开展健共体建设专题调研",
+      "bytes": 12566
+    },
+    {
+      "route": "/content/heoa-post-10963",
+      "title": "研究进展｜竞争性医疗改革是否总能带来健康收益？来自中国的证据",
+      "bytes": 22410
+    },
+    {
+      "route": "/content/heoa-post-10998",
+      "title": "研究速递｜几内亚大科纳克里交通、财富差异与孕产妇医疗可及性",
+      "bytes": 32773
+    },
+    {
+      "route": "/content/heoa-post-11022",
+      "title": "研究速递｜医疗服务模式改革与信用就医： 一项田野实验研究",
+      "bytes": 21838
+    },
+    {
+      "route": "/content/heoa-post-11038",
+      "title": "快讯 | HEOA成员赴新加坡中央医院价值医疗办公室访问",
+      "bytes": 11445
+    },
+    {
+      "route": "/content/heoa-post-11042",
+      "title": "研究速递｜全球卫生系统中基于价值的医疗保健倡议的应用：范围综述",
+      "bytes": 19280
+    },
+    {
+      "route": "/content/heoa-post-11055",
+      "title": "快讯 | HEOA四川大学课题组2025年博士学位论文答辩会顺利举办",
+      "bytes": 13838
+    },
+    {
+      "route": "/content/heoa-post-11062",
+      "title": "快讯 | HEOA四川大学课题组2025年硕士学位答辩会成功举办",
+      "bytes": 14907
+    },
+    {
+      "route": "/content/heoa-post-11067",
+      "title": "研究速递｜基于健康状况与县域的美国医疗保健支出分析",
+      "bytes": 21020
+    },
+    {
+      "route": "/content/heoa-post-11081",
+      "title": "研究进展｜中山大学杨廉平团队揭示气候变化与社会经济因素共同加剧全球抗微生物药物耐药性",
+      "bytes": 24353
+    },
+    {
+      "route": "/content/heoa-post-11093",
+      "title": "研究进展｜减少产科医院是否影响分娩服务利用？——来自中国的因果多水平分析",
+      "bytes": 25942
+    },
+    {
+      "route": "/content/heoa-post-11107",
+      "title": "快讯 | 聚焦时空分析前沿：四川大学宋超携 BSTVC R 包参加人工智能时代地理模型盛会",
+      "bytes": 16455
+    },
+    {
+      "route": "/content/heoa-post-10718",
+      "title": "快讯丨四川大学健康城市发展研究中心2025年2月月报",
+      "bytes": 10480
+    },
+    {
+      "route": "/content/heoa-post-10725",
+      "title": "通知 | 关于任命王秀丽同志职务的通知",
+      "bytes": 12163
+    },
+    {
+      "route": "/content/heoa-post-10726",
+      "title": "研究进展｜医疗资源配置效率的小区域时空评价：基于四川省县域面板数据的实证研究",
+      "bytes": 36065
+    },
+    {
+      "route": "/content/heoa-post-10516",
+      "title": "会议预告 | 2024年HEOA卫生政策与经济博士生论坛",
+      "bytes": 14380
+    },
+    {
+      "route": "/content/heoa-post-10552",
+      "title": "研究进展｜中国医生在COVID-19期间的互联网诊疗使用意愿及其影响因素研究",
+      "bytes": 29228
+    },
+    {
+      "route": "/content/heoa-post-10566",
+      "title": "研究进展 | 门急诊服务敏感疾病（Ambulatory Care Sensitive Conditions）系列综述",
+      "bytes": 36856
+    },
+    {
+      "route": "/content/heoa-post-10589",
+      "title": "研究进展 | 数智驱动医疗卫生服务体系高质量发展：发展机制与实施路径",
+      "bytes": 31577
+    },
+    {
+      "route": "/content/heoa-post-10602",
+      "title": "快讯 | 杨练教授接任HEOA轮值主席",
+      "bytes": 11674
+    },
+    {
+      "route": "/content/heoa-post-10607",
+      "title": "快讯 | “医防协同、医防融合、医防整合”公共卫生与预防医学人才培养体系创新与实践推进工作会顺利召开",
+      "bytes": 13491
+    },
+    {
+      "route": "/content/heoa-post-10526",
+      "title": "研究进展 | 低资源环境中获得连续性孕产保健服务的空间可及性研究",
+      "bytes": 35822
+    },
+    {
+      "route": "/content/heoa-post-10442",
+      "title": "研究进展 | 中国医生使用移动平台软件与患者沟通时的个人偏好与采用情况：一项定性研究",
+      "bytes": 29547
+    },
+    {
+      "route": "/content/heoa-post-10436",
+      "title": "快讯 | HEOA团队成员参加北大-耶鲁2024年“同一健康”经济学夏令营",
+      "bytes": 14003
+    },
+    {
+      "route": "/content/heoa-post-10424",
+      "title": "研究进展 |中国抗肿瘤药物上市价格和临床价值与报销决策的关系研究",
+      "bytes": 41134
+    },
+    {
+      "route": "/content/heoa-post-10406",
+      "title": "研究进展 | 中日韩抗肿瘤药物的价格与临床价值：一项回顾性比较研究",
+      "bytes": 45027
+    },
+    {
+      "route": "/content/heoa-post-10401",
+      "title": "通知公告 | 关于2024年度（第1批） “健康城市发展研究中心”项目评审结果的公示",
+      "bytes": 11905
+    },
+    {
+      "route": "/content/heoa-post-10376",
+      "title": "研究进展 | 中国医保准入谈判制度对抗肿瘤药物价格及其与临床价值关联的影响评估",
+      "bytes": 40588
+    },
+    {
+      "route": "/content/heoa-post-10397",
+      "title": "快讯 | HEOA团队成员在2024健康政策与管理青年学者论坛会议获奖",
+      "bytes": 16811
+    },
+    {
+      "route": "/content/heoa-post-10363",
+      "title": "快讯 | HEOA智库成员在健康地理学青年学者论坛上有精彩表现",
+      "bytes": 14640
+    },
+    {
+      "route": "/content/heoa-post-10352",
+      "title": "研究进展 | 医院竞争对住院医疗质量的影响具有疾病异质性",
+      "bytes": 31652
+    },
+    {
+      "route": "/content/heoa-post-10347",
+      "title": "快讯 | HEOA团队参加全国高等学校预防医学专业第九轮规划教材《卫生信息管理学》（第五版）编写会",
+      "bytes": 12772
+    },
+    {
+      "route": "/content/heoa-post-10329",
+      "title": "快讯 | 潘杰教授课题组2021级硕士学位答辩会成功举办",
+      "bytes": 22157
+    },
+    {
+      "route": "/content/heoa-post-10324",
+      "title": "研究速递 | 明智地选择——帮助医生和病人做出明智的医疗决策",
+      "bytes": 18087
+    },
+    {
+      "route": "/content/heoa-post-10318",
+      "title": "快讯|HEOA团队参加全国高等学校预防医学专业第九轮3部规划教材编写会暨教育部公共卫生与预防医学“101 计划”2部教材讨论会",
+      "bytes": 13588
+    },
+    {
+      "route": "/content/heoa-post-10315",
+      "title": "快讯 | HEOA团队又一学术论文入选ESI高被引论文",
+      "bytes": 12687
+    },
+    {
+      "route": "/content/heoa-post-10310",
+      "title": "快讯 | HEOA团队学术论文入选ESI热点论文",
+      "bytes": 12840
+    },
+    {
+      "route": "/content/heoa-post-10280",
+      "title": "研究进展｜通用型医疗服务价格项目比价关系研究——以诊察费为例",
+      "bytes": 39967
+    },
+    {
+      "route": "/content/heoa-post-10266",
+      "title": "研究速递｜相对价格对于医疗卫生费用的重要性",
+      "bytes": 21098
+    },
+    {
+      "route": "/content/heoa-post-10250",
+      "title": "研究进展｜门急诊服务敏感疾病中国目录制订计划书研究进展｜",
+      "bytes": 31890
+    },
+    {
+      "route": "/content/heoa-post-10228",
+      "title": "“典型药品集采中选价格与支付标准协同项目结题会”顺利举行",
+      "bytes": 23420
+    },
+    {
+      "route": "/content/heoa-post-10204",
+      "title": "研究进展｜LDCT用于肺癌筛查在中国的可及性如何？基于横断面调查的空间分析",
+      "bytes": 35992
+    },
+    {
+      "route": "/content/heoa-post-10120",
+      "title": "研究进展 | 供需匹配与协同治理视角下全面推进健康中国建设面临主要挑战与因应之策",
+      "bytes": 37480
+    },
+    {
+      "route": "/content/heoa-post-10130",
+      "title": "2024年度成都市哲学社会科学重点研究基地 “健康城市发展研究中心” 项目申报通知",
+      "bytes": 16723
+    },
+    {
+      "route": "/content/heoa-post-10093",
+      "title": "研究进展 | 一种面向小区域医疗卫生资源的时空评价体系：揭示中国医院床位县域分布的时空不平等、热点和决定因素",
+      "bytes": 44095
+    },
+    {
+      "route": "/content/heoa-post-10078",
+      "title": "研究进展 | 家庭功能对青少年内外化问题行为的影响：共情和情绪能力的多重中介作用",
+      "bytes": 32060
+    },
+    {
+      "route": "/content/heoa-post-10113",
+      "title": "四川大学健康城市发展研究中心科研助理招聘",
+      "bytes": 11431
+    },
+    {
+      "route": "/content/heoa-post-10064",
+      "title": "研究进展 | 疾病控制优先的演进及应用",
+      "bytes": 28584
+    },
+    {
+      "route": "/content/heoa-post-10003",
+      "title": "研究进展 | 医疗卫生支出地区差异的影响因素：一项小区域分析的研究",
+      "bytes": 27472
+    },
+    {
+      "route": "/content/heoa-post-9991",
+      "title": "快讯 | “成都市罕见病医疗保障研讨会暨结题会”顺利举行",
+      "bytes": 19740
+    },
+    {
+      "route": "/content/heoa-post-9936",
+      "title": "研究进展 | 低价值医疗服务风险评估研究",
+      "bytes": 39323
+    },
+    {
+      "route": "/content/heoa-post-9928",
+      "title": "四川省医共体改革培训会暨四川省基层卫生事业发展研究中心暨HEOA2023年学术年会成功举办",
+      "bytes": 13763
+    },
+    {
+      "route": "/content/heoa-post-9918",
+      "title": "会议通知 | 2023 年HEOA 学术年会",
+      "bytes": 15250
+    },
+    {
+      "route": "/content/heoa-post-9912",
+      "title": "四川省卫生经济学会第六届理事会第二次常务理事会顺利召开",
+      "bytes": 13677
+    },
+    {
+      "route": "/content/heoa-post-9898",
+      "title": "研究进展 | 解密医院规模分布：一种地理学方法",
+      "bytes": 36518
+    },
+    {
+      "route": "/content/heoa-post-9884",
+      "title": "研究进展 | 241家医疗机构结核菌素皮肤试验报告规范性调查",
+      "bytes": 35414
+    },
+    {
+      "route": "/content/heoa-post-9856",
+      "title": "“2023年HEOA卫生政策与经济博士生论坛”成功举行",
+      "bytes": 26627
+    },
+    {
+      "route": "/content/heoa-post-9842",
+      "title": "研究进展 | 中国全民健康覆盖研究报告",
+      "bytes": 16535
+    },
+    {
+      "route": "/content/heoa-post-9611",
+      "title": "研究进展｜中国的城市应何时发布空气污染预警？来自成都的大气重污染住院阈值证据",
+      "bytes": 29767
+    },
+    {
+      "route": "/content/heoa-post-9816",
+      "title": "研究进展 | 大气颗粒物暴露与急性心肌梗死患者住院病死的关联：基于中国多省份横断面研究",
+      "bytes": 25023
+    },
+    {
+      "route": "/content/heoa-post-9790",
+      "title": "研究进展 | 国谈抗肿瘤药配备机构的空间可达性评价研究",
+      "bytes": 34262
+    },
+    {
+      "route": "/content/heoa-post-9785",
+      "title": "快讯 | HEOA团队青年教师参加2023复旦大学-中华预防医学会全球卫生分会《全球卫生治理与实践》培训班",
+      "bytes": 12359
+    },
+    {
+      "route": "/content/heoa-post-9770",
+      "title": "研究进展 | 应用区位配置模型促进合理的卫生规划：基于两步优化法评估中国大都会城市新增三级医疗资源的空间可及性改善情况",
+      "bytes": 31186
+    },
+    {
+      "route": "/content/heoa-post-9766",
+      "title": "快讯 | HEOA团队青年教师赴武汉参加国家自然科学基金委员会管理科学部健康管理与政策学科研究范式与高质量发展研讨会",
+      "bytes": 11037
+    },
+    {
+      "route": "/content/heoa-post-9754",
+      "title": "研究进展 | 四川省血液透析服务空间可及性评价研究",
+      "bytes": 24395
+    },
+    {
+      "route": "/content/heoa-post-9738",
+      "title": "研究进展 | “健康中国行动”两步监测评估流程的构建与应用",
+      "bytes": 26644
+    },
+    {
+      "route": "/content/heoa-post-9725",
+      "title": "研究进展 | 儿童含糖饮料消费行为与肥胖相关研究进展",
+      "bytes": 33455
+    },
+    {
+      "route": "/content/heoa-post-9709",
+      "title": "研究进展 | 初中生自我中心主义与非自杀性自伤的关系研究",
+      "bytes": 28064
+    },
+    {
+      "route": "/content/heoa-post-9691",
+      "title": "研究进展 | 全面脱贫前后健康减贫政策文本量化研究",
+      "bytes": 30168
+    },
+    {
+      "route": "/content/heoa-post-9687",
+      "title": "快讯丨获批2023年度教育部人文社会科学研究一般项目1项",
+      "bytes": 12961
+    },
+    {
+      "route": "/content/heoa-post-9664",
+      "title": "研究进展｜新冠疫情大流行期间儿童及青少年新发焦虑症状的纵向研究",
+      "bytes": 35036
+    },
+    {
+      "route": "/content/heoa-post-9658",
+      "title": "快讯 | HEOA团队青年教师赴济南参加国家卫健委卫生经济与政策研究重点实验室第四届青年学者论坛",
+      "bytes": 12013
+    },
+    {
+      "route": "/content/heoa-post-9642",
+      "title": "快讯|HEOA团队博士生赴广州参加2023全球健康南方论坛智库 新闻",
+      "bytes": 16468
+    },
+    {
+      "route": "/content/heoa-post-9626",
+      "title": "研究进展｜测度住院病案首页中的低价值医疗服务：来自中国的证据",
+      "bytes": 29875
+    },
+    {
+      "route": "/content/heoa-post-9601",
+      "title": "快讯|HEOA成员王健健博士生赴英国参加第18届GIN学术年会并作汇报智库 新闻",
+      "bytes": 14472
+    },
+    {
+      "route": "/content/heoa-post-9492",
+      "title": "研究进展|中国青少年网络成瘾、生活满意度和蓄意自伤之间的关系: 一项多中心的纵向研究",
+      "bytes": 41076
+    },
+    {
+      "route": "/content/heoa-post-9484",
+      "title": "快讯丨环境健康研究里的因果推断讲座成功举办",
+      "bytes": 14110
+    },
+    {
+      "route": "/content/heoa-post-9469",
+      "title": "研究进展|积极青少年发展素质与网络成瘾的交叉滞后分析",
+      "bytes": 26254
+    },
+    {
+      "route": "/content/heoa-post-9461",
+      "title": "快讯丨启产后微量营养素粉补救措施研究进展讲座成功举办",
+      "bytes": 14625
+    },
+    {
+      "route": "/content/heoa-post-9443",
+      "title": "研究进展 | 中小学生家庭功能与创伤后应激障碍症状相关分析",
+      "bytes": 27528
+    },
+    {
+      "route": "/content/heoa-post-9430",
+      "title": "快讯丨启智——以证据为基础的肥胖政策与干预策略讲座成功举办",
+      "bytes": 17205
+    },
+    {
+      "route": "/content/heoa-post-9420",
+      "title": "快讯丨智库研究与高质量决策咨询报告撰写培训会成功举办",
+      "bytes": 13968
+    },
+    {
+      "route": "/content/heoa-post-9410",
+      "title": "研究进展|公共卫生医师处方权探讨——基于基层公共卫生医师视角的扎根理论研究",
+      "bytes": 22339
+    },
+    {
+      "route": "/content/heoa-post-9401",
+      "title": "研究进展|成都市基层医疗卫生机构管理者视角下公共卫生执业医师处方权研究",
+      "bytes": 23155
+    },
+    {
+      "route": "/content/heoa-post-9391",
+      "title": "研究进展 | 血浆置换和糖皮质激素剂量对ANCA相关血管炎患者的影响：一项临床实践指南",
+      "bytes": 24894
+    },
+    {
+      "route": "/content/heoa-post-9371",
+      "title": "研究进展 | 成都市重特大疾病医疗保障水平研究—基于肺和支气管恶性肿瘤患者医疗费用保障水平及评价分析",
+      "bytes": 27613
+    },
+    {
+      "route": "/content/heoa-post-9348",
+      "title": "研究进展丨偏头痛匿名标准化病人工具的开发及其在基层医疗机构质量评估中的应用",
+      "bytes": 33539
+    },
+    {
+      "route": "/content/heoa-post-9328",
+      "title": "研究进展丨基于匿名标准化病人法和小儿腹泻病例的初级卫生保健质量评估研究",
+      "bytes": 38871
+    },
+    {
+      "route": "/content/heoa-post-9319",
+      "title": "研究进展|ChatGPT对医学教育模式改变的思考",
+      "bytes": 19667
+    },
+    {
+      "route": "/content/heoa-post-9299",
+      "title": "研究进展|短期暴露于环境空气污染导致抑郁症住院的归因风险和经济成本：多城市时间分层病例交叉研究",
+      "bytes": 23304
+    },
+    {
+      "route": "/content/heoa-post-9263",
+      "title": "研究进展丨数字经济发展与城乡收入差距—来自中国城市的经验证据",
+      "bytes": 54649
+    },
+    {
+      "route": "/content/heoa-post-9230",
+      "title": "研究进展丨健康、社会经济、人口和环境因素对COVID-19发病率的影响：来自美国阿肯色州的地理空间建模研究",
+      "bytes": 42693
+    },
+    {
+      "route": "/content/heoa-post-9212",
+      "title": "研究进展|不同所有制医院院内死亡率和医疗费用的比较：基于常见三种疾病的研究",
+      "bytes": 34321
+    },
+    {
+      "route": "/content/heoa-post-9200",
+      "title": "快讯|HEOA成员曾力楠副教授应邀参加国际证据评价与指南制定组织年会并作大会报告",
+      "bytes": 14308
+    },
+    {
+      "route": "/content/heoa-post-9171",
+      "title": "快讯丨“医疗服务价格监测评估研讨会”顺利举行研究进展|在线问诊消费者网评有效性研究：一项使用匿名标准化患者的横断面研究计划书快讯丨“医疗服务价格监测评估研讨会”顺利举行",
+      "bytes": 36227
+    },
+    {
+      "route": "/content/heoa-post-9098",
+      "title": "研究进展|如何用短信提高农村精神分裂症患者的药物依从性？一项18个月的随访研究",
+      "bytes": 27897
+    },
+    {
+      "route": "/content/heoa-post-9080",
+      "title": "研究进展|中国西南地区空气污染物对儿童急性下呼吸道感染的短期影响和经济负担：时间序列研究",
+      "bytes": 22243
+    },
+    {
+      "route": "/content/heoa-post-9069",
+      "title": "快讯丨HEOA成员田帆、路立勇顺利完成博士学位论文答辩",
+      "bytes": 18521
+    },
+    {
+      "route": "/content/heoa-post-9049",
+      "title": "快讯丨HEOA成员周倩、曹裴娅顺利完成博士学位论文答辩",
+      "bytes": 19168
+    },
+    {
+      "route": "/content/heoa-post-9022",
+      "title": "快讯|HEOA团队2篇学术论文入选ESI高被引论文",
+      "bytes": 12552
+    },
+    {
+      "route": "/content/heoa-post-8987",
+      "title": "研究进展|基于不同院外服务敏感疾病定义下的四川省可避免住院现状分析",
+      "bytes": 21923
+    },
+    {
+      "route": "/content/heoa-post-9010",
+      "title": "快讯|HEOA团队成员荣获“首届公共卫生安全与健康案例大赛”二等奖",
+      "bytes": 17162
+    },
+    {
+      "route": "/content/heoa-post-9001",
+      "title": "快讯丨HEOA讲坛第52期顺利举行",
+      "bytes": 14371
+    },
+    {
+      "route": "/content/heoa-post-8966",
+      "title": "研究进展|新冠肺炎流行期间护生风险感知如何影响专业承诺：负性情绪的中介作用和心理资本的调节作用",
+      "bytes": 23699
+    },
+    {
+      "route": "/content/heoa-post-8929",
+      "title": "讲座预告丨 丸山士行：日本健康午餐计划对少儿体重的短期和长期影响",
+      "bytes": 16823
+    },
+    {
+      "route": "/content/heoa-post-8913",
+      "title": "研究进展|城市绿地对身体健康的影响：来自西南中国的实证研究",
+      "bytes": 27864
+    },
+    {
+      "route": "/content/heoa-post-8900",
+      "title": "研究进展|高敏C反应蛋白及其变化和代谢综合征的关系研究",
+      "bytes": 22077
+    },
+    {
+      "route": "/content/heoa-post-8874",
+      "title": "快讯丨“医疗服务价格监测评估研讨会”顺利举行",
+      "bytes": 24187
+    },
+    {
+      "route": "/content/heoa-post-8833",
+      "title": "快讯丨“老龄化背景下卫生体系应对策略研讨会”顺利举行",
+      "bytes": 24268
+    },
+    {
+      "route": "/content/heoa-post-8827",
+      "title": "快讯丨新书推荐-《四川省民族地区卫生事业研究：发展与改革》",
+      "bytes": 13284
+    },
+    {
+      "route": "/content/heoa-post-8820",
+      "title": "通知丨2023年度（第2批）成都市哲学社会科学重点研究基地“健康城市发展研究中心”项目申报的通知",
+      "bytes": 12154
+    },
+    {
+      "route": "/content/heoa-post-8812",
+      "title": "快讯|赵莉教授主持《儿童肥胖综合防控策略、关键技术研究及应用》获2022年度四川省科学技术进步二等奖",
+      "bytes": 14352
+    },
+    {
+      "route": "/content/heoa-post-8789",
+      "title": "研究进展|健康扶贫政策对贫困家庭疾病经济负担的影响：基于四川省的实证",
+      "bytes": 28031
+    },
+    {
+      "route": "/content/heoa-post-8774",
+      "title": "研究进展|45岁以上人群中午午睡与高血压的关系：一项在中国进行的横断面研究",
+      "bytes": 19556
+    },
+    {
+      "route": "/content/heoa-post-8729",
+      "title": "研究进展|人口分布、医疗资源、交通设施对卫生服务空间可及性的相对贡献",
+      "bytes": 30058
+    },
+    {
+      "route": "/content/heoa-post-8708",
+      "title": "快讯丨HEOA讲坛第51期顺利举行",
+      "bytes": 14569
+    },
+    {
+      "route": "/content/heoa-post-8670",
+      "title": "研究进展|大气细颗粒物化学组分长期暴露与脑卒中院内死亡的关联性研究",
+      "bytes": 26555
+    },
+    {
+      "route": "/content/heoa-post-8646",
+      "title": "快讯丨HEOA团队青年教师赴武汉参加国家自然科学基金委员会管理科学部2023年度公共卫生与健康管理领域青年学者交流会",
+      "bytes": 11228
+    },
+    {
+      "route": "/content/heoa-post-8603",
+      "title": "研究进展|不同粒径的大气颗粒物暴露与脑卒中患者重复住院的关联：基于四川省107万脑卒中住院患者的队列研究",
+      "bytes": 24825
+    },
+    {
+      "route": "/content/heoa-post-8600",
+      "title": "通知公告丨关于 2023 年度（第1批） “健康城市发展研究中心”项目评审结果的公示",
+      "bytes": 9724
+    },
+    {
+      "route": "/content/heoa-post-8569",
+      "title": "研究进展|初中学生家庭功能对自杀相关行为的影响：抑郁的中介作用",
+      "bytes": 40671
+    },
+    {
+      "route": "/content/heoa-post-8547",
+      "title": "研究进展|洪水与腹泻发病：相关关系、效应修饰因子、归因风险",
+      "bytes": 21855
+    },
+    {
+      "route": "/content/heoa-post-8499",
+      "title": "快讯丨赴赤水市就健康减贫成效及乡村振兴政策衔接情况调研顺利完成",
+      "bytes": 17808
+    },
+    {
+      "route": "/content/heoa-post-8483",
+      "title": "快讯丨凉山州医疗服务项目价格结构性调整座谈会顺利举行",
+      "bytes": 14320
+    },
+    {
+      "route": "/content/heoa-post-8327",
+      "title": "2023年度（第1批)成都市哲学社会科学重点研究基地“健康城市发展研究中心”项目申报的通知",
+      "bytes": 12960
+    },
+    {
+      "route": "/content/heoa-post-8475",
+      "title": "快讯丨瞿星发表学术论文获“领跑者5000”——中国精品科技期刊顶尖论文称号",
+      "bytes": 18729
+    },
+    {
+      "route": "/content/heoa-post-8463",
+      "title": "通知丨关于召开四川省医共体改革培训会暨四川省基层卫生事业发展研究中心2022年学术年会的通知",
+      "bytes": 13922
+    },
+    {
+      "route": "/content/heoa-post-8455",
+      "title": "招聘丨四川大学公共管理学院健康治理与公共政策研究所招聘科研助理公告",
+      "bytes": 14660
+    },
+    {
+      "route": "/content/heoa-post-8443",
+      "title": "研究进展|基层医疗卫生人员数与腹泻发病率：资源应该往哪里分配？",
+      "bytes": 19672
+    },
+    {
+      "route": "/content/heoa-post-8412",
+      "title": "研究进展|社区公共卫生应急能力指标体系构成要素研究",
+      "bytes": 42990
+    },
+    {
+      "route": "/content/heoa-post-8391",
+      "title": "快讯丨“惠民保中的政府定位研究”课题结题暨研讨会顺利举行",
+      "bytes": 26469
+    },
+    {
+      "route": "/content/heoa-post-8386",
+      "title": "快讯丨贡森、方一安新冠策略调整报告获民进中央参政议政成果奖励三等奖",
+      "bytes": 17682
+    },
+    {
+      "route": "/content/heoa-post-8372",
+      "title": "快讯丨《The Lancet Public Health》发表建议促进区域均衡发展实现全民健康覆盖评论文章",
+      "bytes": 14365
+    },
+    {
+      "route": "/content/heoa-post-8277",
+      "title": "研究进展｜徐东教授关于基层卫生质量研究（ACACIA）的阶段性成果",
+      "bytes": 21170
+    },
+    {
+      "route": "/content/heoa-post-8274",
+      "title": "通知丨第六届“卫生政策与经济博士生论坛”延期举办通知",
+      "bytes": 10959
+    },
+    {
+      "route": "/content/heoa-post-8261",
+      "title": "快讯丨博士生江庆玲顺利通过博士学位论文答辩",
+      "bytes": 17894
+    },
+    {
+      "route": "/content/heoa-post-8230",
+      "title": "快讯丨“基于病原学‘多点触发’的重大传染病研判关键技术及流行预警模型研究”开题暨“智慧化重大疾病预警防控”研讨会顺利举行",
+      "bytes": 30708
+    },
+    {
+      "route": "/content/heoa-post-8214",
+      "title": "快讯丨“手术类医疗服务项目中高值医用耗材技耗分离对策研究”研讨会顺利举行",
+      "bytes": 19006
+    },
+    {
+      "route": "/content/heoa-post-8197",
+      "title": "研究进展|基于供需适配性理论的四川省3岁以下婴幼儿照护服务分析",
+      "bytes": 37593
+    },
+    {
+      "route": "/content/heoa-post-8190",
+      "title": "通知丨关于举办 2022 年疫情防控常态化下公立医院高质量发展培训班的通知",
+      "bytes": 13425
+    },
+    {
+      "route": "/content/heoa-post-8167",
+      "title": "研究进展|躯体功能障碍与抑郁症状发展轨迹的关联性：基于中国健康与养老追踪调查的研究证据",
+      "bytes": 25473
+    },
+    {
+      "route": "/content/heoa-post-8135",
+      "title": "研究进展|慢性病患者基层就诊影响因素分析—一项横断面研究",
+      "bytes": 45400
+    },
+    {
+      "route": "/content/heoa-post-8092",
+      "title": "快讯丨杨练教授团队荣获国家医疗保障局第二届课题研究成果奖一等奖",
+      "bytes": 12025
+    },
+    {
+      "route": "/content/heoa-post-8081",
+      "title": "研究进展|儿童早期预防口腔就诊与儿童蛀牙经历：一项横断面研究",
+      "bytes": 24464
+    },
+    {
+      "route": "/content/heoa-post-7977",
+      "title": "资讯丨SCI/SSCI专刊征稿（Frontiers in Public Health）",
+      "bytes": 21216
+    },
+    {
+      "route": "/content/heoa-post-7948",
+      "title": "研究进展丨公众对COVID-19风险感知的区域时空差异：基于贝叶斯时空变系数（STVC）系列模型的中国城市研究",
+      "bytes": 51132
+    },
+    {
+      "route": "/content/heoa-post-7907",
+      "title": "快讯丨2022年获批国家自然科学基金项目4项",
+      "bytes": 33962
+    },
+    {
+      "route": "/content/heoa-post-7818",
+      "title": "第六届“卫生政策与经济博士生论坛”征稿通知￼",
+      "bytes": 28698
+    },
+    {
+      "route": "/content/heoa-post-7772",
+      "title": "研究进展|全球老龄化时空演变与社会经济（62%贡献）和自然环境（37%贡献）密切相关，其关联存在时空差异",
+      "bytes": 56821
+    },
+    {
+      "route": "/content/heoa-post-7748",
+      "title": "研究进展丨中国政府对医院基础设施投资的地区分布及其效率:基于医院房屋建筑的评估",
+      "bytes": 27878
+    },
+    {
+      "route": "/content/heoa-post-7727",
+      "title": "快讯丨HEOA成员胡海燕顺利完成博士学位论文答辩",
+      "bytes": 16052
+    },
+    {
+      "route": "/content/heoa-post-7709",
+      "title": "研究进展丨助产机构分娩量对孕产妇危重事件发生率的因果效应探索",
+      "bytes": 25509
+    },
+    {
+      "route": "/content/heoa-post-7680",
+      "title": "快讯丨第4届健康服务与产业组织（HEOA）研讨会顺利举行",
+      "bytes": 33298
+    },
+    {
+      "route": "/content/heoa-post-7639",
+      "title": "研究进展丨四川省公立和私立医院的空间可及性评估:私立医院对医疗卫生资源的影响",
+      "bytes": 64164
+    },
+    {
+      "route": "/content/heoa-post-7406",
+      "title": "HEOA｜健康服务与产业组织研究",
+      "bytes": 176948
+    },
+    {
+      "route": "/content/heoa-post-7340",
+      "title": "研究进展丨疫情中牙痛人的自助求生：研究发现，新冠疫情管控导致口腔服务需求只能转由网络缓解，需要警惕可能引发的口腔重症后果",
+      "bytes": 23189
+    },
+    {
+      "route": "/content/healthy-cities-post-29212",
+      "title": "通知公告丨关于 2022 年度 “健康城市发展研究中心”项目评审结果的公示",
+      "bytes": 8247
+    },
+    {
+      "route": "/content/heoa-post-7270",
+      "title": "研究进展丨模拟就医行为的空间倾向——外部患者就医指数（EPHI）",
+      "bytes": 70987
+    },
+    {
+      "route": "/content/heoa-post-7260",
+      "title": "研究进展丨不同粒径大气颗粒物暴露与脑卒中住院患者院内死亡的关联性研究",
+      "bytes": 21411
+    },
+    {
+      "route": "/content/heoa-post-7241",
+      "title": "快讯丨“市场调节价项目定价管理”研讨会顺利举行",
+      "bytes": 19368
+    },
+    {
+      "route": "/content/heoa-post-7225",
+      "title": "快讯丨“惠民保中的政府定位研究”课题开题暨研讨会顺利举行",
+      "bytes": 17419
+    },
+    {
+      "route": "/content/heoa-post-7204",
+      "title": "分科室医院感染月发病率控制范围的制定及应用",
+      "bytes": 20142
+    },
+    {
+      "route": "/content/heoa-post-7112",
+      "title": "就医旅途负担及影响因素：基于住院患者出行时间的研究",
+      "bytes": 34255
+    },
+    {
+      "route": "/content/healthy-cities-post-29138",
+      "title": "关于 2022 年度成都市哲学社会科学重点研究基地“健康城市发展研究中心”项目申报的通知",
+      "bytes": 10434
+    },
+    {
+      "route": "/content/heoa-post-7053",
+      "title": "HEOA｜健康服务与产业组织研究",
+      "bytes": 26707
+    },
+    {
+      "route": "/content/heoa-post-6987",
+      "title": "研究进展丨四川颗粒物空气污染对冠心病住院的短期影响和负担-时间分层的病例交叉研究",
+      "bytes": 59251
+    },
+    {
+      "route": "/content/heoa-post-6930",
+      "title": "研究进展丨不同保障水平下罕见病用药可负担性研究：以脊髓性肌萎缩症为例",
+      "bytes": 47145
+    },
+    {
+      "route": "/content/heoa-post-6914",
+      "title": "快讯丨华西卫生政策与经济讲坛（第48期）顺利举行",
+      "bytes": 13944
+    },
+    {
+      "route": "/content/heoa-post-6805",
+      "title": "快讯丨健康城市发展研究中心取得21年度成都市社科研究基地考核第二名",
+      "bytes": 11734
+    },
+    {
+      "route": "/content/heoa-post-6784",
+      "title": "快讯丨“挑战杯”全国大学生竞赛获一等奖",
+      "bytes": 20239
+    },
+    {
+      "route": "/content/heoa-post-6758",
+      "title": "建立问责制医院服务区：一项针对样本城市医疗费用的案例分析",
+      "bytes": 50094
+    },
+    {
+      "route": "/content/heoa-post-6719",
+      "title": "研究进展｜空气质量改善的健康收益——基于医保报销数据的实证研究",
+      "bytes": 46276
+    },
+    {
+      "route": "/content/heoa-post-6697",
+      "title": "研究进展丨糖尿病可避免住院现状及其与基层医疗卫生资源的关系",
+      "bytes": 55833
+    },
+    {
+      "route": "/content/heoa-post-6654",
+      "title": "研究进展丨医疗服务价格功能研究：面临挑战、原因分析和对策建议",
+      "bytes": 26881
+    },
+    {
+      "route": "/content/heoa-post-6611",
+      "title": "研究进展丨四川省深度贫困县的健康扶贫实践",
+      "bytes": 49569
+    },
+    {
+      "route": "/content/heoa-post-6537",
+      "title": "健康扶贫丨一个慢性伤口愈和的故事",
+      "bytes": 29138
+    },
+    {
+      "route": "/content/heoa-post-6528",
+      "title": "研究进展丨携手健康减贫，共建没有贫困的人类命运共同体",
+      "bytes": 26271
+    },
+    {
+      "route": "/content/heoa-post-6493",
+      "title": "研究进展丨不同医院市场界定方法的比较：基于四川省11种代表性疾病的分析",
+      "bytes": 55150
+    },
+    {
+      "route": "/content/heoa-post-6482",
+      "title": "研究进展丨抑郁症状与膝关节疼痛风险的相关性：性别的调节作用",
+      "bytes": 17481
+    },
+    {
+      "route": "/content/heoa-post-6410",
+      "title": "研究进展丨院长感知竞争与医院竞争行为的关系",
+      "bytes": 53937
+    },
+    {
+      "route": "/content/heoa-post-6399",
+      "title": "研究进展丨拟除虫菊酯暴露与心血管疾病的关系：一项基于美国全人群的横断面研究",
+      "bytes": 22274
+    },
+    {
+      "route": "/content/heoa-post-6380",
+      "title": "快讯丨新书推荐-《健康经济学（第6版）》",
+      "bytes": 19307
+    },
+    {
+      "route": "/content/heoa-post-6334",
+      "title": "快讯丨获批21年度四川省卫健委医学科技项目1项",
+      "bytes": 13043
+    },
+    {
+      "route": "/content/heoa-post-6321",
+      "title": "研究进展丨抑郁症介导了吸烟与疼痛之间的关联：来自中低收入国家一项全国代表性研究的证据",
+      "bytes": 18155
+    },
+    {
+      "route": "/content/heoa-post-6315",
+      "title": "快讯丨赵莉副教授主持一项教学成果获四川大学教学成果奖一等奖",
+      "bytes": 13682
+    },
+    {
+      "route": "/content/heoa-post-6311",
+      "title": "快讯丨获批2022年度四川省科技创新人才项目1项",
+      "bytes": 11470
+    },
+    {
+      "route": "/content/heoa-post-6250",
+      "title": "研究进展丨在致命传染病大流行中对患有PTSD的卫生服务提供者的心理干预：系统评价和荟萃分析",
+      "bytes": 52994
+    },
+    {
+      "route": "/content/heoa-post-6247",
+      "title": "快讯丨获批2022年度四川省重点研发项目1项",
+      "bytes": 12214
+    },
+    {
+      "route": "/content/heoa-post-6240",
+      "title": "快讯丨HEOA团队、华西公卫博士生蓝天骄赴北京参加第四届中国健康经济学论坛",
+      "bytes": 12005
+    },
+    {
+      "route": "/content/heoa-post-6199",
+      "title": "研究进展丨陈志潜先生公共卫生实践对完善公卫医师执业制度的启示",
+      "bytes": 42753
+    },
+    {
+      "route": "/content/heoa-post-6180",
+      "title": "第五届“华西卫生政策与经济博士生论坛”延期举办通知",
+      "bytes": 10165
+    },
+    {
+      "route": "/content/heoa-post-6158",
+      "title": "研究进展丨新形势下做好公立医院纪检监察工作的探讨",
+      "bytes": 39009
+    },
+    {
+      "route": "/content/heoa-post-6126",
+      "title": "研究进展丨医院市场竞争与卫生技术扩散：基于中国腹腔镜阑尾切除术的实证研究",
+      "bytes": 39178
+    },
+    {
+      "route": "/content/heoa-post-6103",
+      "title": "研究进展丨贫困地区慢性病患者卫生服务利用不足及其相关因素的多水平分析",
+      "bytes": 19014
+    },
+    {
+      "route": "/content/heoa-post-6030",
+      "title": "研究进展丨一项针对英国西北部患有心血管疾病的中国老年人的焦点小组研究",
+      "bytes": 36695
+    },
+    {
+      "route": "/content/heoa-post-5968",
+      "title": "喜讯丨赵莉副教授指导CPCD队列作品获“挑战杯”省赛一等奖",
+      "bytes": 16573
+    },
+    {
+      "route": "/content/heoa-post-6049",
+      "title": "研究进展丨医院市场竞争是否会导致医疗设备的扩张？",
+      "bytes": 61372
+    },
+    {
+      "route": "/content/heoa-post-5935",
+      "title": "喜讯丨HEOA团队赵莉副教授主编首部面向农村防疫科普电子书《农村防控新冠肺炎手册》获第四届世界华人科普奖",
+      "bytes": 19247
+    },
+    {
+      "route": "/content/heoa-post-5864",
+      "title": "研究进展丨从合理的卫生规划中获益： 中国三甲综合医院床位资源空间配置优化研究",
+      "bytes": 60906
+    },
+    {
+      "route": "/content/heoa-post-5825",
+      "title": "征稿截止时间延长至9月15日｜第五届“华西卫生政策与经济博士生论坛”征稿通知｜Call For Papers：The 2021 West China Health Policy And Economics Doctoral Forum",
+      "bytes": 16453
+    },
+    {
+      "route": "/content/heoa-post-5803",
+      "title": "快讯丨2021年教育部港澳与内地大中小学校师生交流计划服务学习项目在四川大学华西公共卫生学院正式启动",
+      "bytes": 13510
+    },
+    {
+      "route": "/content/heoa-post-5768",
+      "title": "快讯丨“我国罕见病患者医疗保障及生存状态研究”课题结题暨研讨会顺利举行",
+      "bytes": 21568
+    },
+    {
+      "route": "/content/heoa-post-5747",
+      "title": "喜讯丨团队宋超教师论文获《Annals of GIS》刊物2020年最佳文章第一名的荣誉",
+      "bytes": 14656
+    },
+    {
+      "route": "/content/heoa-post-5696",
+      "title": "研究进展丨中国三级医疗卫生服务体系下空间可达性的综合分析",
+      "bytes": 70286
+    },
+    {
+      "route": "/content/heoa-post-5648",
+      "title": "研究进展丨颗粒物污染对精神疾病住院患者的健康和经济影响",
+      "bytes": 64089
+    },
+    {
+      "route": "/content/heoa-post-5610",
+      "title": "研究进展丨超市可及性与儿童肥胖关系的系统评价",
+      "bytes": 43344
+    },
+    {
+      "route": "/content/heoa-post-5575",
+      "title": "研究进展丨灾难性卫生支出：中国吸烟家庭与不吸烟家庭比较分析",
+      "bytes": 38817
+    },
+    {
+      "route": "/content/heoa-post-5507",
+      "title": "研究进展丨“不是任何人都可以胜任”：对姑息医学专业人员亲身经历的定性研究",
+      "bytes": 51602
+    },
+    {
+      "route": "/content/heoa-post-5471",
+      "title": "研究进展丨新增急救医疗服务的优化选址：基于中国急救服务体系的规划案例",
+      "bytes": 48898
+    },
+    {
+      "route": "/content/heoa-post-5429",
+      "title": "研究进展丨2015年中国归因于吸烟的医疗成本研究：基于计量经济学模型",
+      "bytes": 46886
+    },
+    {
+      "route": "/content/heoa-post-5385",
+      "title": "快讯丨华西公卫/西部中心成员赴深圳参加“国家重点研发计划‘主动健康和老龄化科技应对’重点专项2020年度项目实施工作推进会”",
+      "bytes": 15216
+    },
+    {
+      "route": "/content/heoa-post-5311",
+      "title": "研究进展丨中国医疗床位数的供给及其公平性对于孕产妇死亡率的影响",
+      "bytes": 59828
+    },
+    {
+      "route": "/content/heoa-post-5234",
+      "title": "快讯丨“银发龙门阵—老龄带来的社会转型与健康挑战”论坛圆满落幕",
+      "bytes": 25479
+    },
+    {
+      "route": "/content/healthy-cities-post-28741",
+      "title": "通知公告丨关于 2021 年度成都市哲学社会科学重点研究基地 “健康城市发展研究中心”项目评审结果的公示",
+      "bytes": 11568
+    },
+    {
+      "route": "/content/heoa-post-5121",
+      "title": "会议预告丨银发龙门阵-老龄带来的社会转型与健康挑战",
+      "bytes": 22599
+    },
+    {
+      "route": "/content/heoa-post-4874",
+      "title": "研究进展丨吸烟对中国城镇居民收入水平的影响：基于中国家庭追踪调查数据",
+      "bytes": 42710
+    },
+    {
+      "route": "/content/heoa-post-4558",
+      "title": "讲座预告丨 后《国家行动计划》时期细菌耐药治理策略研究",
+      "bytes": 12247
+    },
+    {
+      "route": "/content/heoa-post-4348",
+      "title": "喜讯丨祝贺！团队刘振谧教授入选四川省学术和技术带头人后备人选",
+      "bytes": 12262
+    },
+    {
+      "route": "/content/heoa-post-3836",
+      "title": "快讯｜健康服务与产业研究团队（HEOA Group）获批全球公共卫生宣传推广项目",
+      "bytes": 12261
+    },
+    {
+      "route": "/content/heoa-page-3485",
+      "title": "团队新闻",
+      "bytes": 87483
+    },
+    {
+      "route": "/content/healthy-cities-post-28191",
+      "title": "研究进展｜国内外罕见病用药保障模式的评述",
+      "bytes": 41227
+    },
+    {
+      "route": "/content/healthy-cities-post-28161",
+      "title": "关于 2021 年度成都市哲学社会科学重点研究基地 “健康城市发展研究中心”项目申报的通知",
+      "bytes": 14217
+    },
+    {
+      "route": "/content/healthy-cities-post-28123",
+      "title": "评选结果丨健康城市发展研究中心LOGO征集活动评选结果",
+      "bytes": 14428
+    },
+    {
+      "route": "/content/healthy-cities-post-28047",
+      "title": "时空变系数(STVC)模型：以探测健康地理现象中的时空非平稳性为例",
+      "bytes": 36166
+    },
+    {
+      "route": "/content/healthy-cities-page-28036",
+      "title": "陈楚",
+      "bytes": 16395
+    },
+    {
+      "route": "/content/healthy-cities-page-28022",
+      "title": "邹锟",
+      "bytes": 19239
+    },
+    {
+      "route": "/content/healthy-cities-page-28011",
+      "title": "林小军",
+      "bytes": 20320
+    },
+    {
+      "route": "/content/healthy-cities-page-27998",
+      "title": "王秀丽",
+      "bytes": 17968
+    },
+    {
+      "route": "/content/healthy-cities-page-27984",
+      "title": "张雨萌",
+      "bytes": 17365
+    },
+    {
+      "route": "/content/healthy-cities-page-27967",
+      "title": "宋超",
+      "bytes": 27611
+    },
+    {
+      "route": "/content/healthy-cities-page-27947",
+      "title": "赵莉",
+      "bytes": 41222
+    },
+    {
+      "route": "/content/healthy-cities-page-27937",
+      "title": "刘振谧",
+      "bytes": 19729
+    },
+    {
+      "route": "/content/healthy-cities-page-27875",
+      "title": "潘杰",
+      "bytes": 32164
+    },
+    {
+      "route": "/content/healthy-cities-post-27535",
+      "title": "普惠型商业健康保险保障机制研究暨高值药物商保准入研讨会顺利举行",
+      "bytes": 26022
+    },
+    {
+      "route": "/content/healthy-cities-post-27461",
+      "title": "第二届健康服务与产业组织（HEOA）研讨会顺利举行",
+      "bytes": 20225
+    },
+    {
+      "route": "/content/healthy-cities-post-27670",
+      "title": "研究进展丨医疗纠纷与社会办医发展的关系：来自中国的证据",
+      "bytes": 52681
+    },
+    {
+      "route": "/content/healthy-cities-post-27621",
+      "title": "研究进展丨中国医院市场结构的演变",
+      "bytes": 36043
+    },
+    {
+      "route": "/content/healthy-cities-post-27594",
+      "title": "快讯丨中心成员路立勇、赵小双在首届“卫管·紫荆论坛”分别获得优秀论文一等奖和三等奖",
+      "bytes": 13151
+    },
+    {
+      "route": "/content/healthy-cities-page-25792",
+      "title": "卫生服务与产业组织研究团队（HEOA Group）",
+      "bytes": 13944
+    },
+    {
+      "route": "/content/healthy-cities-page-25791",
+      "title": "健康GIS",
+      "bytes": 9344
+    },
+    {
+      "route": "/content/healthy-cities-page-25789",
+      "title": "学生风采",
+      "bytes": 182355
+    },
+    {
+      "route": "/content/healthy-cities-page-25694",
+      "title": "信息公开",
+      "bytes": 15546
+    },
+    {
+      "route": "/content/healthy-cities-page-25693",
+      "title": "新闻动态",
+      "bytes": 140090
+    },
+    {
+      "route": "/content/healthy-cities-post-27740",
+      "title": "研究进展｜社会经济与环境因素对中国西南地区医疗资源的时空影响—基于贝叶斯时空变系数模型的实证研究",
+      "bytes": 37166
+    },
+    {
+      "route": "/content/healthy-cities-page-145",
+      "title": "联系我们",
+      "bytes": 18580
+    },
+    {
+      "route": "/content/healthy-cities-page-137",
+      "title": "科学研究",
+      "bytes": 145471
+    },
+    {
+      "route": "/content/healthy-cities-page-119",
+      "title": "中心成员",
+      "bytes": 60632
+    },
+    {
+      "route": "/content/healthy-cities-page-92",
+      "title": "中心简介",
+      "bytes": 22093
+    },
+    {
+      "route": "/content/healthy-cities-page-14",
+      "title": "首页",
+      "bytes": 70904
+    },
+    {
+      "route": "/content/heoa-page-3516",
+      "title": "健康城市发展研究中心",
+      "bytes": 13795
+    },
+    {
+      "route": "/content/heoa-page-476",
+      "title": "团队介绍",
+      "bytes": 15229
+    },
+    {
+      "route": "/content/heoa-page-3493",
+      "title": "资源下载",
+      "bytes": 19653
+    },
+    {
+      "route": "/content/heoa-page-3492",
+      "title": "研究进展",
+      "bytes": 108599
+    },
+    {
+      "route": "/content/heoa-page-3491",
+      "title": "研究方向",
+      "bytes": 22423
+    },
+    {
+      "route": "/content/heoa-page-3235",
+      "title": "组织架构",
+      "bytes": 29104
+    },
+    {
+      "route": "/content/heoa-page-3234",
+      "title": "人员简介",
+      "bytes": 132797
+    },
+    {
+      "route": "/content/heoa-page-3233",
+      "title": "人才招聘",
+      "bytes": 18405
+    },
+    {
+      "route": "/content/heoa-page-3232",
+      "title": "官方微信",
+      "bytes": 19551
+    },
+    {
+      "route": "/content/heoa-page-3231",
+      "title": "主页",
+      "bytes": 76950
+    }
+  ]
+}

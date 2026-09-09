@@ -1,0 +1,2 @@
+# Original media must stay byte-identical on Windows and remote Linux builds.
+sites-media-display-web/** -text

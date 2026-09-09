@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>王冬 · 照片清晰度对比</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#f6f3ee;color:#292322;font-family:Arial,"Microsoft YaHei",sans-serif}main{max-width:1180px;margin:auto;padding:44px 28px 60px}a{color:inherit;text-underline-offset:4px}.back{font-size:13px;color:#75675f}.eyebrow{margin:44px 0 14px;color:#861820;font-size:11px;font-weight:bold;letter-spacing:.15em}h1{margin:0;font:500 clamp(30px,4vw,46px)/1.3 Georgia,"Noto Serif SC",serif}.intro{max-width:790px;color:#6b625c;font-size:14px;line-height:1.9}.controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:24px 0}.controls>span{margin-right:8px;color:#6b625c;font-size:12px}button{padding:9px 15px;border:1px solid #d5c9bf;background:transparent;color:#342e29;font:inherit;font-size:13px;cursor:pointer}button[aria-pressed="true"]{background:#861820;border-color:#861820;color:#fff}button:focus-visible,a:focus-visible{outline:3px solid #bc735f;outline-offset:4px}.comparison{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;padding:30px 0;border-top:1px solid #d8cec4;border-bottom:1px solid #d8cec4}figure{margin:0;min-width:0}figcaption{max-width:var(--portrait-size,320px);margin:0 auto 18px;display:flex;justify-content:space-between;gap:12px;font-size:15px}figcaption small{color:#746a62;font-size:11px;align-self:center}.photo{display:block;width:100%;max-width:var(--portrait-size,320px);aspect-ratio:134/173;margin:auto;object-fit:contain;background:#eee9e2}.caption-note{max-width:var(--portrait-size,320px);margin:14px auto 0;color:#6b625c;font-size:12px;line-height:1.8}.note{max-width:850px;margin:26px 0 0;padding-left:16px;border-left:2px solid #a66555;color:#685d56;font-size:13px;line-height:1.9}.note strong{color:#443831;font-weight:600}.file-links{display:flex;flex-wrap:wrap;gap:12px 24px;margin-top:24px;font-size:12px;color:#766a61}@media(max-width:600px){main{padding:28px 18px 40px}.eyebrow{margin-top:30px}.comparison{gap:14px;padding:22px 0}figcaption{flex-direction:column;gap:5px}figcaption small{align-self:flex-start}.caption-note{font-size:11px}.controls{gap:8px}.controls>span{flex-basis:100%}}
+    .photo{height:auto}
+  </style>
+</head>
+<body>
+  <main>
+    <a class="back" href="/team">← 返回成员目录</a>
+    <p class="eyebrow">HEOA · PORTRAIT STUDY</p>
+    <h1>王冬 · 照片清晰度对比</h1>
+    <p class="intro">两张照片按相同宽度展示，方便比较面部、头发与衣服细节。左侧为网站当前原图，右侧为本次 AI 增强试样。</p>
+    <div class="controls" aria-label="对比尺寸">
+      <span>查看尺寸</span>
+      <button type="button" data-size="320" aria-pressed="true">卡片大小</button>
+      <button type="button" data-size="520" aria-pressed="false">放大查看</button>
+    </div>
+    <section class="comparison" aria-label="原图与增强试样并排对比">
+      <figure>
+        <figcaption><span>原图</span><small>134 × 173 px</small></figcaption>
+        <img class="photo" src="wang-dong-before-original.webp" alt="王冬的原始低分辨率照片" width="134" height="173">
+        <p class="caption-note">网站现用文件，按展示尺寸等比放大。</p>
+      </figure>
+      <figure>
+        <figcaption><span>AI 增强试样</span><small>1102 × 1428 px</small></figcaption>
+        <img class="photo" src="wang-dong-after-ai-trial.png" alt="基于王冬原图制作的 AI 清晰度增强试样" width="1102" height="1428">
+        <p class="caption-note">仅供效果比较，尚未替换成员头像。</p>
+      </figure>
+    </section>
+    <p class="note"><strong>请同时比较清晰度和本人特征。</strong>增强图中的眼周、嘴唇、皮肤、发丝及背景细节包含 AI 推断，不能视为原始细节的真实恢复。本次只试做这一张，网站原有照片保持原样。</p>
+    <div class="file-links"><a href="wang-dong-before-original.webp" target="_blank" rel="noopener">打开原图 ↗</a><a href="wang-dong-after-ai-trial.png" target="_blank" rel="noopener">打开增强试样 ↗</a></div>
+  </main>
+  <script>
+    const controls = document.querySelectorAll('[data-size]');
+    controls.forEach(button => button.addEventListener('click', () => {
+      document.documentElement.style.setProperty('--portrait-size', `${button.dataset.size}px`);
+      controls.forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+    }));
+  </script>
+</body>
+</html>
