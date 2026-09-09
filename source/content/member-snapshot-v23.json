@@ -1,0 +1,635 @@
+[
+  {
+    "name": "王冬",
+    "details": [
+      "南方医科大学卫生管理学院",
+      "教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247492386&idx=1&sn=aa38f103cda176e489d508f25a6c5f8a&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-001.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5vZQZQlMm058ibsE3lbbv9VvMOVFbdibBhmGSE7YZqEeagWEdvf7RrdGMg7pB28BqicmcdlRR8FkeMJl6cIiakjUsHLNib1KegFDUkc/640?wx_fmt=png&from=appmsg#imgIndex=1"
+  },
+  {
+    "name": "王秀丽",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "副研究员/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491569&idx=1&sn=cf500ec3683ea0e847fff596dabe5643&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-002.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5uDr3mE1HJPD5lOP4YGaQKuvsJiaj1DI9KZibqy4ymtGhdcqOibZZOf0mw5CvrJuUQbQTX7rgv3qMZMbep96s3QcXSImBic06sTib98/640?wx_fmt=jpeg&from=appmsg#imgIndex=2"
+  },
+  {
+    "name": "王茂夏",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "助理研究员"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488537&idx=1&sn=2d5760407b7bbb560d1f5481d6150a49&chksm=ce1e2217f969ab01cc997b5eca5653bd89fe6f45f2b73f91fbb7f8dbe27888b54787a6e1d617&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-003.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vR1YWrv8qQFPswic4ZNdyou3BhJukG6tnna1jxIGlAtXVtUefSQzfzQT0dffQTDq8ZdF1Z6kttKNkycjfw7hj7LSKicAEaONiafI/640?wx_fmt=png&from=appmsg#imgIndex=3"
+  },
+  {
+    "name": "王晓敏",
+    "details": [
+      "浙江大学公共卫生学院",
+      "助理研究员",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-004.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5swKzdZhzCASz2rWWCHEEGrKGhHyAdFu8hGMG5P04uFZiaTqabOiaU2k1QcdDu62TJoTda4H7iaop8NwuHukNZwYDyXbUA5gFark8/640?wx_fmt=jpeg&from=appmsg#imgIndex=4"
+  },
+  {
+    "name": "王锋",
+    "details": [
+      "浙江大学公共卫生学院",
+      "助理研究员",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-005.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5vYIxNsLNicJoA5gLFicwUdicJfCCEAncnCfSNu7wq3wh7d2w7h9cncNuvutpGpGic72LCftWmUTBnBQVFJmwJ5Eic4pF4BF1WjpsrU/640?wx_fmt=jpeg&from=appmsg#imgIndex=5"
+  },
+  {
+    "name": "方红",
+    "details": [
+      "四川大学健康城市发展研究中心",
+      "讲师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491695&idx=1&sn=c40b53f285624c70387b84d8d52ba6b6&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-006.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5uJtFHA5V1DAPX3OPZn0WCAUsNhbqH9bd8scgoV3lKGRYmmMelqSZV4XLbCMBgheRLZDIFcialhvU4XKUb5Uf69TBEyndWZfWrg/640?wx_fmt=jpeg&from=appmsg#imgIndex=6"
+  },
+  {
+    "name": "白媛",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "副研究员"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247495710&idx=1&sn=c831724049c49f6fd8fcc3537d434324&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-007.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5skyqictMDmNXPzWcSmOxkYKRgHNBcZ1s0CiaTONNIYILpgiagSSaN5znfSkOOzbBS8EKu577vfaajIFcYrBL8y4B9Dg1RWWXems0/640?wx_fmt=jpeg&from=appmsg#imgIndex=7"
+  },
+  {
+    "name": "司俊霄",
+    "details": [
+      "川北医学院管理学院",
+      "讲师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491878&idx=1&sn=ca08a929e256eb1cff20e7f5970ccdeb&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-008.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5vTNwibibiauIBXg3VlicdC3ewL0gubakPjnG7CGkJXQt0CN5Cs4oInKsNP4CyWRlPmcD9YvpKeKptMjqrhcW4npicMUXEOpjpwD99c/640?wx_fmt=jpeg&from=appmsg#imgIndex=8"
+  },
+  {
+    "name": "向国春",
+    "details": [
+      "南方医科大学卫生管理学院",
+      "副研究员/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247492361&idx=1&sn=04e35f86fdeb4bc69cba11d51b014bf4&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-009.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vHaWBib1icooJxwtzyDIg5lYcibBLBUtAhuUlYLOBLaafQuSunt98c7ZbKGSvK71rK9EF9KjVCn5PMlViclFwYHl1gDIa9O059OTw/640?wx_fmt=png&from=appmsg#imgIndex=9"
+  },
+  {
+    "name": "刘丹",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "主管药师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491880&idx=1&sn=7873174cf54f9e534fcea05891e39af7&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-010.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5uGypkNqy3jnxRfRKZN3fV4yh6JCmS4sUq4JenicKT8aMaN9iahwL828E64Xkvmnvlknyva5JJajAFCnwnSRKREMGwDxujR2SfUE/640?wx_fmt=png&from=appmsg#imgIndex=10"
+  },
+  {
+    "name": "刘洋",
+    "details": [
+      "川北医学院疾病监测与数智健康治理重点实验室"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491709&idx=1&sn=3de64bcac6e586b99b5e32d8d4d5ae76&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-011.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5tXDiaCVwicl8BOIV2VibPQc94sKh9vKjeYrN4TGtVKqRe5SibYyYF7ctflKiaoT1N8Wxb3XESbD6BtDezcToqU9HS628Brrq4icGicFU/640?wx_fmt=jpeg&from=appmsg#imgIndex=11"
+  },
+  {
+    "name": "汤万杰",
+    "details": [
+      "四川大学华西公共卫生学院",
+      "副教授/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247493622&idx=1&sn=b98c2870e3d2a06774b73befdcb138c2&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-012.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5siajDRUlMm8GX2bZmKku7neVlAib71wU3Q5l42FW4gF4KcibNjbIIKFn7ShicXvltnGicB74Cy9tz2ndxzs29So0k2jcPujJ3yUeJ8/640?wx_fmt=png&from=appmsg#imgIndex=12"
+  },
+  {
+    "name": "孙健",
+    "details": [
+      "南京农业大学公共管理学院",
+      "讲师",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-013.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vVia8wNAgraSFsMI9x1qy1jIJEw1zmMJW20H8GEyZjZCGM9016xb2033hI5KsK1bxj0uVwestygLicbGSnVB49zCnuDJMCniaBfU/640?wx_fmt=png&from=appmsg#imgIndex=13"
+  },
+  {
+    "name": "孙群",
+    "details": [
+      "成都中医药大学公共卫生学院",
+      "讲师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491732&idx=1&sn=be471b7c90a100614667c2622c09f5a2&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-014.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5veNo68TJ16hSK8Xe1moJd5srngFrWE6basy5DW6SkH6oOx2LwdGNC4U7FWGOfmoSbHxAMrHBiaV36YqvHcFG5poZTRPDqebhms/640?wx_fmt=jpeg&from=appmsg#imgIndex=14"
+  },
+  {
+    "name": "严祥",
+    "details": [
+      "四川大学公共管理学院",
+      "副研究员",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-015.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5sj0uJib1vZTiamxzVKQewHibfaUrLJT70JRGvYce7H1SBvSHKquofVorUV2aGyIpH3SOs6wLnibvhwxvtolfqib1V63dicCAyia8yVLQ/640?wx_fmt=jpeg&from=appmsg#imgIndex=15"
+  },
+  {
+    "name": "杜占玮",
+    "details": [
+      "南方科技大学公共卫生及应急管理学院",
+      "副教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247495709&idx=1&sn=953c9be95307500569913999558ec95f&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-016.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5viaCg8c74YRta2P7PFqw1YHOSlyLb4l6IhXJQqx2icMeRlyVMcLsf7fzI3ibxnoCGW7y66KMWR97FjTytGsmf912TE0jt5m2tSOI/640?wx_fmt=png&from=appmsg#imgIndex=16"
+  },
+  {
+    "name": "李丁",
+    "details": [
+      "西南财经大学公共管理学院",
+      "教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491568&idx=1&sn=bd5cd5866f9fcf5a2f640737ad8c5f46&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-017.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5sgkwgbxwRdpfyRXOibggTibELJlUbicfIt3PCicLia023vrY4JRrsh5g5vibT7W15ar4bXrM7Zibavq56LVnkQkArYpbL6qKoEsUTrcI/640?wx_fmt=png&from=appmsg#imgIndex=17"
+  },
+  {
+    "name": "李海龙",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "助理研究员"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491876&idx=1&sn=804630582ecdcb5de0b1e6865dbd50d7&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-018.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5sLBibzJtXLycMEqibJ6ScaoIWibgolh4MzTySSMtzOm3Wpjcamw76c5ttZ8OwWoj8HkqV3A7xZjruPXjTNaH9NR3OibcQNq1oPOVI/640?wx_fmt=png&from=appmsg#imgIndex=18"
+  },
+  {
+    "name": "杨练",
+    "details": [
+      "成都中医药大学公共卫生学院",
+      "教授/博导/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491577&idx=1&sn=aa81c0124c837551d71568ca2ef2d389&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-019.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5tgIGFLiaYlv4nXzWQM7Tcic4iaVLsRLiaHAFfg5SSpmz2fNnVp4rptfsvr4yHIpuftysw6UdadSqz9tQdkk5lhROue8789zPMf014/640?wx_fmt=jpeg&from=appmsg#imgIndex=19"
+  },
+  {
+    "name": "杨春松",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "副主任药师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491888&idx=1&sn=307872326cea8a90cd69590ad01d2405&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-020.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5tJUYee15LCzdvBN4pIz0KmgEkHud9f7Nmzy12xgVypxer3Z2CuGVIib0KzwjlmnPibLzMxibnJyL04jxKa5LglcFEnqZoe8lUBRs/640?wx_fmt=jpeg&from=appmsg#imgIndex=20"
+  },
+  {
+    "name": "杨廉平",
+    "details": [
+      "中山大学卫生管理学系",
+      "副教授/硕导",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-021.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5syZ1xR3KsR9PT3GCUXrLwcrFkqwuYk4m2EwNkvLXPPoSkEql7lEKvkJDrupme6v9CTXwib9qdybpic16sMMicWnaibxnj4W0hC678/640?wx_fmt=png&from=appmsg#imgIndex=21"
+  },
+  {
+    "name": "肖蜜蜜",
+    "details": [
+      "重庆医科大学公共卫生学院",
+      "副教授/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491575&idx=1&sn=5bb97465b1fc1b3275465c0cf045b2a3&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-022.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vCPyOjCIp6micPnhFbau4TwQmKopJexsUEf6aqVgKN6LGRpw8qY3XYnHaWiaSAic4caqb8CniaPjPzo1YqxrqUUobnJ89XpBrovUU/640?wx_fmt=png&from=appmsg#imgIndex=22"
+  },
+  {
+    "name": "吴皓",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488535&idx=1&sn=7be2ea5013dcdd47251c4918006ff5b0&chksm=ce1e2219f969ab0fcc38ac800c203db4f5b1e200dd0954dc6ef3ad82955b69bb3466202504a6&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-023.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5vicgyLNrx3PxeJkkp8FBnkrrqXDAxyqEpU6MbyH0XOicY5IxjmvgskNGLzadOMxAUyRicsuicrYI9R7ZX3TpibGcLuCGTcOicVlviam0/640?wx_fmt=jpeg&from=appmsg#imgIndex=23"
+  },
+  {
+    "name": "汪鸿年",
+    "details": [
+      "川北医学院疾病监测与数智健康治理重点实验室"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491698&idx=1&sn=2615dd4a15a1f0eaa6a27b7617ab79b8&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-024.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5t8MgWpIjBgDHIqIbFXHQeh7znxN8T0SexfpDWliczdSrJeLd8h4KHvC1Gau3RTJMZT7FNKvk0EXjibRfoZknKVYgMOCqcWKv9yk/640?wx_fmt=jpeg&from=appmsg#imgIndex=24"
+  },
+  {
+    "name": "宋超",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "副研究员/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491681&idx=1&sn=4f6b93ff7862e83af482ef32716cda55&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-025.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5vaqTGmro2q1gTdtpnZNreL5J553tzU4WYLHFVOYQFWt6It95NIicf34NjREEfL0RvDQ6mDB0zNVxyT4oCpjaHLExtmnToorRbQ/640?wx_fmt=png&from=appmsg#imgIndex=25"
+  },
+  {
+    "name": "张川",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "副主任药师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491877&idx=1&sn=420d7665410f67b14bb84533d26072fc&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-026.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5vq8KTia524pwQeqbwjrWBalib7ZSRG494UHpwaZWZcvBksOLUwtknB5ib1L3ORk0JTDmU3lcJ1Keqo7aoPTawMwMv9N7FFnianyuc/640?wx_fmt=jpeg&from=appmsg#imgIndex=26"
+  },
+  {
+    "name": "张伶俐",
+    "details": [
+      "四川大学华西第二医院",
+      "主任药师/教授"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491889&idx=1&sn=efba54f61921cefaf5c6d6f127519305&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-027.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5t5LQkfgPiacfmiaaBSiasawBcCG2yoQLtmLlREMdlGcEGFbQDMSiaM2rhGjTsRNOVXib0QOUxkuHn5S5Vg0HjqKkX6bEmBOBs28dfs/640?wx_fmt=png&from=appmsg#imgIndex=27"
+  },
+  {
+    "name": "张雨萌",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "副教授/硕士生导师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491708&idx=1&sn=55a54eb7903bd79002c28d824b170bcf&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-028.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5vLr7eWDa3WlogxGHR5UoeUian4g88bZibZgU7qicvsY5KWkJ3aVxgKibwEicsGaREMatiaiba3O9QuvMj1wnFzy1lXPkRzCI1sCfpTiaM/640?wx_fmt=png&from=appmsg#imgIndex=28"
+  },
+  {
+    "name": "张研",
+    "details": [
+      "华中科技大学医药卫生管理学院",
+      "副教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491571&idx=1&sn=ac2649278741b0a649c34c68607613f1&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-029.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5vBAU2NJO7jH5vZzNGHl5131kFe4ns8okGygKxmEYHaVdjulCMxPeJHv7BibXL32OicTEeXUu7XrEEvt44hxs7mOicI3sdwWtOmos/640?wx_fmt=png&from=appmsg#imgIndex=29"
+  },
+  {
+    "name": "陈哲",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "主管药师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491879&idx=1&sn=71d0c0cf72b7adc9b785dbdb62bd8d29&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-030.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5sicuYouvbsUGzpcJpT4MEtT0K6mIksJP90DCjQ0xy0PpGicUoVvWtfCgCByLaAXmsalm83myicogmwicrHD5JzViaicnUWOt3oJM1GE/640?wx_fmt=jpeg&from=appmsg#imgIndex=30"
+  },
+  {
+    "name": "陈楚",
+    "details": [
+      "福建医科大学健康学院",
+      "讲师"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488529&idx=1&sn=3b4174e4d1f5cf010802c36c54a4af7e&chksm=ce1e221ff969ab098436ddc9b226ce9704457b1922e6d521329f89b176198a8c8d2bf7ff6a7e&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-031.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5uHNYWOicMO8O0pHnst04u6F1Yjcp1KrSqZiczPfKfM8SKHfibTzQeCMA6YaqZu1FvQb7GQooDBO1iaEjJsU49iafAzcHdNHpkoFs7U/640?wx_fmt=png&from=appmsg#imgIndex=31"
+  },
+  {
+    "name": "林小军",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "副研究员/硕士生导师"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488525&idx=1&sn=e08e71580c1e6f024eebd55a961a5852&chksm=ce1e2203f969ab158376be3cad4c079c77178585098522db013e4304d27da68ba5fbfb49d793&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-032.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5vt4MA1992pBXj3Q9GIiaQZYtRUz3aGDwicibu5Dk9TBMwicsdXXNqia3l6Jias4n2y2icz7wXFryrZjPQNCjq4IgBwDadsYmfUc5U0NU/640?wx_fmt=png&from=appmsg#imgIndex=32"
+  },
+  {
+    "name": "周旭东",
+    "details": [
+      "浙江大学公共卫生学院",
+      "教授/博士生导师",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-033.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5uZljbtUnd6n1TTcT8a2rxScOtlhaFCA8jHia58fmVFlvhM0IhXyAZ4CAiaxNOhYNumcE5uOMBr53lk5ZyXibHLYicAyAG5gcCROSo/640?wx_fmt=png&from=appmsg#imgIndex=33"
+  },
+  {
+    "name": "赵莉",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491884&idx=1&sn=53d0c23d39c3e739f3cb4c04265ecf4e&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-034.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vXy1etfqxmWtuaLbGqI8w8D5riaDohtDZnVygqHafn9tpgUGDLA14HeAplBB4nQJrlnHzDKVzb1jOAB1IA4DW6lqC17U3sQMsA/640?wx_fmt=png&from=appmsg#imgIndex=34"
+  },
+  {
+    "name": "柯雄",
+    "details": [
+      "川北医学院管理学院",
+      "教授/硕导",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-035.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5ujfRicASUGA6gd5aic8cLky7WsntlAxLbWTEFUW8QLShLS2UiaBXcibicRefVZaeSujXcu2xkKgaLZFFNIZ9n6EGDJ4UlFOUfwBVUs/640?wx_fmt=jpeg&from=appmsg#imgIndex=35"
+  },
+  {
+    "name": "姚瑶",
+    "details": [
+      "上海交通大学医学院",
+      "助理研究员"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488558&idx=1&sn=421e494d683ac9673c83937aa803f32f&chksm=ce1e2220f969ab36ff8084332182b47c87802bb08675e433f17ea57e17ccdfb0132471336551&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-036.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5secxRJcelbLuuicZbRYrvHVUmnDvDqoBWOm1DCsB0A9InmYr1JANzEaxlraqaaj6btIO8qaRLSAVAScEYkUzxBFYVyLSG1Nx9k/640?wx_fmt=png&from=appmsg#imgIndex=36"
+  },
+  {
+    "name": "聂晗",
+    "details": [
+      "川北医学院管理学院",
+      "讲师",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-037.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5uq5hQpRWYavIicurOeH01Zo48ypL1rPOqNJnCQqB82ZsvRa5xQicdGoD05x9vpZxTaTXee6LawdibIdUaOk7FkHiabWvhh9u8adUE/640?wx_fmt=jpeg&from=appmsg#imgIndex=37"
+  },
+  {
+    "name": "贾义伍",
+    "details": [
+      "川北医学院管理学院",
+      "讲师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491704&idx=1&sn=da10c8e50d9ef7766f2dc196778fbcb0&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-038.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5vwb0mT82dc1MiauBwoFEmmuYps01FCfvudTzkFCoBQT6RITLIMqh5lFZCxjk0TXZmzADhg4ZiaGg12ntntjI8V4P5qDG68ScecI/640?wx_fmt=jpeg&from=appmsg#imgIndex=38"
+  },
+  {
+    "name": "顾绚",
+    "details": [
+      "西南财经大学公共管理学院",
+      "教授/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491731&idx=1&sn=42f22d72bb61b64d207a6ac4a510b8a8&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-039.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5tdWdSodakAMsxh9p8FibFrb1192oINFsiaFXgaqsFkugQNLfib4YvZfcIn4EN0cA09eIOwfksrpF6iaTicCFo8MQPW3WxaGOPF8uNs/640?wx_fmt=png&from=appmsg#imgIndex=39"
+  },
+  {
+    "name": "徐东",
+    "details": [
+      "南方医科大学卫生管理学院",
+      "教授/博导",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-040.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5ut4CzyqGwYtlT5YwEXRicFugEjqjK0zDexouV85wa8I3BxM5lqLibLNiaO7ZRYJtUHayyuQWllRCu4t7iaEFeATMwibVYOmgUs2icgc/640?wx_fmt=jpeg&from=appmsg#imgIndex=40"
+  },
+  {
+    "name": "殷晓旭",
+    "details": [
+      "华中科技大学同济医学院公共卫生学院",
+      "教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247493824&idx=1&sn=48d115224084dacc8b406d1228a6404a&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-041.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5siagjKeZ1iapmLw0CXcRhHS0sSWa7D4JISFsYlic9swrLIeYiaDFXtKmtSyZqf8anibTOfyIVcp9Bqhx6BBxZD6ialNzubKOCpaIdKE/640?wx_fmt=png&from=appmsg#imgIndex=41"
+  },
+  {
+    "name": "唐尚峰",
+    "details": [
+      "华中科技大学医学科研处",
+      "博导/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491710&idx=1&sn=b6e96dcaeaf26d1744feb79b727df9f7&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-042.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5vbgiaiaiapT11E2Mb5eP2nXdXx6icLSNIRCCS5oOzpNPRcL13oFa9H6HE4h41CTLVibp6JkIH5PEK3822K0sp2IwwicxL8nDnlSyQF8/640?wx_fmt=jpeg&from=appmsg#imgIndex=42"
+  },
+  {
+    "name": "陶文娟",
+    "details": [
+      "四川大学华西医院医院管理研究所",
+      "助理研究员"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491706&idx=1&sn=701797a831636f1d471e92ca7e768c8e&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-043.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5sGtlnpAzOIIaLAODbI2YYkz5PIonFSAlkLdEdgFFSblMamnOXibzicbVunjV96JNZdic1HBwH6prCtJgvIwW6yrpahJYAkibMVcJs/640?wx_fmt=png&from=appmsg#imgIndex=43"
+  },
+  {
+    "name": "黄国武",
+    "details": [
+      "四川大学公共管理学院",
+      "副教授"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491702&idx=1&sn=ff2a6fab1854c92310a3dbd2152794b7&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-044.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5vlP1iblFOenibbqgIInZjW9zPk6WTrlXm6w4ej5uhL4Wk8UYfhWv4EWZrKxTrZ1h7LqoRwMRkwDL9iabZOcaQuIwwj82P1oZK9Eo/640?wx_fmt=jpeg&from=appmsg#imgIndex=44"
+  },
+  {
+    "name": "崔宇杰",
+    "details": [
+      "上海交通大学医学院",
+      "副研究员"
+    ],
+    "href": "http://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247488557&idx=1&sn=492c18259f157bb4c9514a4dae47c378&chksm=ce1e2223f969ab3555efbd32b9082e70c6934561734be2d1f3307a755af762a1e1ace6dc89c4&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-045.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5u42ia6A5RwBnvIYAIsTx6Ev2ib5aWibqW2JzSicvpibS0Kic10EsKP3fJRwSTdzYBu9icZaFoStLZic3gOpktfj9SGLHKjQQLyP3tiaKI0/640?wx_fmt=png&from=appmsg#imgIndex=45"
+  },
+  {
+    "name": "彭子璇",
+    "details": [
+      "东南大学公共卫生学院",
+      "博士"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247493001&idx=1&sn=b990cb78338a53c1f0a851d45f011f9b&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-046.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5uLpLcJbx3kibYABsnJmn8fbaWJsRqewlQ4H5Hib8EH6e3JrDCXTsVIczPAKkmQKx9h4yySIq0PqUTjFaJfVQ3w4NsKqmOGyysia8/640?wx_fmt=jpeg&from=appmsg#imgIndex=46"
+  },
+  {
+    "name": "蒋昌松",
+    "details": [
+      "首都医科大学国家医疗保障研究院",
+      "副研究员",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-047.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5ulWvHvBhlmoF02zARoiaHWMEtjYINONDHFWwic74rpdia3XQsEA6kL60akgj1U7dicmibvEqEp4bx4VsQsjPp2bzVS5UdLme7peBXw/640?wx_fmt=png&from=appmsg#imgIndex=47"
+  },
+  {
+    "name": "蒋宛彦含",
+    "details": [
+      "成都中医药大学公共卫生学院",
+      "讲师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491694&idx=1&sn=e5511a131e391698f37f3069a5e8b042&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-048.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5skWy04YV2MrR95CQnjjw19uZOafgKWzPOVCjxrf5wTTYYGibVUUCcWjJuUCoAAdPCwhohC9pVGAsLnXDD3DBYxjAtIJR9APMU0/640?wx_fmt=jpeg&from=appmsg#imgIndex=48"
+  },
+  {
+    "name": "蒋莉华",
+    "details": [
+      "四川大学",
+      "硕导",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-049.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5vqYWqD2YOU9yVozJnOUHWZ1ZkkU9J0xebRhyBCCywlhBUX0NpS9ndibBCTauNgLh4pgjAiaITRSj876b3bzJOe650qA29oBLAWs/640?wx_fmt=png&from=appmsg#imgIndex=49"
+  },
+  {
+    "name": "韩昕昕",
+    "details": [
+      "南方科技大学公共卫生及应急管理学院",
+      "助理教授/副研究员/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247493949&idx=1&sn=83979f739e17c9beffbc27d96fc3c6a4&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-050.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5v2b83cwf4Q7I8W5ickCOAnGulXAflvXXqnb81cmSu4errcmDw2Eoce5heVibyRbaAWaTa9VWnG9e8EdvTK70KJt38RWmUkjibuzk/640?wx_fmt=png&from=appmsg#imgIndex=50"
+  },
+  {
+    "name": "程迪尔",
+    "details": [
+      "海南医学院管理学院",
+      "副教授",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-051.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5syqJqic2bhhqUrIF4JXnuju2E9AAksp3RBtHWEoicvUlPCGmv01qTAf0X3Cgtywd9TyiaUXmtQVicrTT2X8iaUWPzb2Yt8zg6GboPs/640?wx_fmt=jpeg&from=appmsg#imgIndex=51"
+  },
+  {
+    "name": "傅虹桥",
+    "details": [
+      "北京大学公共卫生学院",
+      "副研究员/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491576&idx=1&sn=ac623d85e2ad093045103980e7cd4c4b&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-052.png",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5sPRXKW9Sub9skC7uxbRFfL7Yrx7Zia6SKyoUQBldicWoscjyibzMAfNqfGpCcKWbOfh6ibCXoOQJAiaYJJa7icY7eMZ6rkhJvS7ZkNo/640?wx_fmt=png&from=appmsg#imgIndex=52"
+  },
+  {
+    "name": "曾力楠",
+    "details": [
+      "四川大学华西第二医院药学部",
+      "副主任药师"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491875&idx=1&sn=aec0265d9be5e592c6d153f3de931aa9&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-053.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5sDsCZXZeE69GFicc6x6SJ1IUI0z0K1otmLewxK5Xt17qjpg8ztIIicMFEaA1XYzWZZAtlfj55LtmjZUBvKPKp1nIK5icRHZCtCyc/640?wx_fmt=jpeg&from=appmsg#imgIndex=53"
+  },
+  {
+    "name": "谢梦雪",
+    "details": [
+      "成都中医药大学公共卫生学院",
+      "讲师",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-054.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5sSOqvzSprhNS7lVhFTYbX8WUx9GQUTgRibZu9XX8uIoVx3pEkToUwkf0axMKmPNYc7G7HozqDvsibzNnFIJlghYiaB42fNV5s5cY/640?wx_fmt=jpeg&from=appmsg#imgIndex=54"
+  },
+  {
+    "name": "赖泓宇",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "助理研究员"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491707&idx=1&sn=01119aa5ce40b0b97f7e9369c7a9f3a7&scene=21#wechat_redirect",
+    "imagePath": "",
+    "sourceImage": ""
+  },
+  {
+    "name": "路立勇",
+    "details": [
+      "四川大学",
+      "特聘副研究员"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247495921&idx=1&sn=f03a8fcce88cb6f3b2cadb3c8a04089c&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-056.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5tALbFo0iamia6hCpq8pqavymEGJ8TkiczEDbyzvwiaVCEDkDOYg8dia8RwOnRutYznA481bRNeYgUib94jMgpUw7UsEMMqyUyCJk9yw/640?wx_fmt=png&from=appmsg#imgIndex=55"
+  },
+  {
+    "name": "廖翔慧",
+    "details": [
+      "四川大学",
+      "硕导",
+      "个人主页：点击前往"
+    ],
+    "href": "",
+    "imagePath": "/team-v23/heoa-member-v23-057.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5sxPM1lr0WF0rPeKlPWFdUS14Sh8kUohWx67XbRxojPzRP3f7iaZsvPicFuV7ddU9PQibJdn9tTROibyaAj9qr9ty1Fu3LapUKRq9k/640?wx_fmt=jpeg&from=appmsg#imgIndex=56"
+  },
+  {
+    "name": "谭明亮",
+    "details": [
+      "川北医学院管理学院",
+      "副教授/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491693&idx=1&sn=eab97132854c099950cf8ac9de180a36&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-058.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5tBBpSSfxib1RPBqPDhemqACc8PM6xAJ7ibf3ufB9gEOMibdCHT5ibmW2sEt2lS4Xk8KzOhKqGjmeKTTywTrt8ReODcz23ia9mgjg8k/640?wx_fmt=jpeg&from=appmsg#imgIndex=57"
+  },
+  {
+    "name": "滕黎",
+    "details": [
+      "川北医学院管理学院",
+      "副教授/硕导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491733&idx=1&sn=f32d6592d4edf1c93bfb9aab7eb3cd3b&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-059.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_jpg/z3OstDn3B5trC7SeeIB3KZ4WExpTIrsXOdWx31q9vBLGFRVFpXibmEGIRrE5jPWicXKKibUvibG6GhAc6PlQ8GGwfT94NemLYnCUT3XfhHvNEJE/640?wx_fmt=jpeg&from=appmsg#imgIndex=58"
+  },
+  {
+    "name": "潘杰",
+    "details": [
+      "四川大学华西公共卫生学院/华西第四医院",
+      "教授/博导"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491682&idx=1&sn=b892ea7c3ef24adc1b07bb68879beaa2&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-060.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/mmbiz_png/z3OstDn3B5sLVMqFibN4bmae4UkZ3pkcdB00kxawaXiaHonbN9aV81Wn3hIpDL5sAqMZs7r3wqO4diahl7n5k9jTzk1hAU3jaLDLa4RpkIawcM/640?wx_fmt=png&from=appmsg#imgIndex=59"
+  },
+  {
+    "name": "薛清萍",
+    "details": [
+      "成都医学院公共卫生学院",
+      "副教授"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491734&idx=1&sn=c1b7b74032dee4f6c63eb8c925c37334&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-061.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/z3OstDn3B5uolA6MDwtj07AMP1AK9ic0icSMNfaCmdkDW3eErib1iavwFehGFib7Ek8FEpYlL4hAJJ0y7dAJWvu0d9Ss0dZWESibeP7mUljRtlVno/640?wx_fmt=jpeg&from=appmsg#imgIndex=60"
+  },
+  {
+    "name": "瞿星",
+    "details": [
+      "四川大学华西医院",
+      "副教授",
+      "更新时间：2026年9月",
+      "预览时标签不可点"
+    ],
+    "href": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg4OTk1Mw==&mid=2247491730&idx=1&sn=a47002b1ff22713fe21a9bd31130c1ba&scene=21#wechat_redirect",
+    "imagePath": "/team-v23/heoa-member-v23-062.webp",
+    "sourceImage": "https://mmbiz.qpic.cn/sz_mmbiz_png/z3OstDn3B5s7wj6ptYC4ADdSBdQxPlIUdZpBRtvcibjdhrsnuhdAkrtg56UUbJBZ0l7XmUFgkAU2oibmDgxyyomDoBUGYaMuicnlyCOkQ8ZS7E/640?wx_fmt=png&from=appmsg#imgIndex=61"
+  }
+]

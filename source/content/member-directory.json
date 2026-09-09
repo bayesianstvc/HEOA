@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "defaultStatus": "published",
+  "homeFeaturedIds": [
+    "healthy-cities-page-27875",
+    "heoa-member-5544",
+    "heoa-member-4683",
+    "heoa-member-5991",
+    "healthy-cities-page-27947"
+  ],
+  "centerFeaturedIds": [
+    "healthy-cities-page-27875",
+    "healthy-cities-page-27998",
+    "healthy-cities-page-27984",
+    "healthy-cities-page-28011",
+    "healthy-cities-page-27967"
+  ],
+  "records": [
+    {
+      "id": "heoa-member-5544",
+      "contentId": "heoa-page-3234",
+      "displayName": "周旭东",
+      "source": "heoa",
+      "assetId": "heoa:02847-%E5%88%87%E7%89%87765-1.jpg",
+      "media": {
+        "originalAssetId": "heoa:02847-%E5%88%87%E7%89%87765-1.jpg",
+        "displayAssetId": "heoa:02847-%E5%88%87%E7%89%87765-1.jpg",
+        "thumbnailAssetId": "heoa:02847-%E5%88%87%E7%89%87765-1.jpg"
+      },
+      "role": "博士、教授、博士生导师",
+      "research": "弱势儿童健康、发展和保护研究；社会科学与传染病防控研究；医疗保障、医疗卫生体系和政策研究",
+      "organization": "浙江大学公共卫生学院",
+      "email": "zhouxudong@zju.edu.cn",
+      "centerId": null,
+      "titleRank": 0,
+      "isFeatured": true,
+      "status": "published",
+      "placements": [
+        "home",
+        "team"
+      ]
+    },
+    {
+      "id": "heoa-member-4683",
+      "contentId": "heoa-page-3234",
+      "displayName": "杨练",
+      "source": "heoa",
+      "assetId": "heoa:02838-%E5%9B%BE%E7%89%87-1.png",
+      "media": {
+        "originalAssetId": "heoa:02838-%E5%9B%BE%E7%89%87-1.png",
+        "displayAssetId": "heoa:02838-%E5%9B%BE%E7%89%87-1.png",
+        "thumbnailAssetId": "heoa:02838-%E5%9B%BE%E7%89%87-1.png"
+      },
+      "role": "成都中医药大学公共卫生学院副院长、博士、教授、硕士生导师",
+      "research": "卫生经济与政策；中医药卫生技术评估",
+      "organization": "成都中医药大学公共卫生学院",
+      "email": "yyanglian@163.com",
+      "centerId": null,
+      "titleRank": 0,
+      "isFeatured": true,
+      "status": "published",
+      "placements": [
+        "home",
+        "team"
+      ]
+    },
+    {
+      "id": "heoa-member-5991",
+      "contentId": "heoa-page-3234",
+      "displayName": "张伶俐",
+      "source": "heoa",
+      "assetId": "heoa:02841-%E5%88%87%E7%89%87-7.jpg",
+      "media": {
+        "originalAssetId": "heoa:02841-%E5%88%87%E7%89%87-7.jpg",
+        "displayAssetId": "heoa:02841-%E5%88%87%E7%89%87-7.jpg",
+        "thumbnailAssetId": "heoa:02841-%E5%88%87%E7%89%87-7.jpg"
+      },
+      "role": "教授、博士生导师、主任药师",
+      "research": "循证药物决策与管理",
+      "organization": "四川大学华西第二医院",
+      "email": "zhanglingli@scu.edu.cn",
+      "centerId": null,
+      "titleRank": 0,
+      "isFeatured": true,
+      "status": "published",
+      "placements": [
+        "home",
+        "team"
+      ]
+    },
+    {
+      "id": "healthy-cities-member-28960",
+      "displayName": "刘汶欣",
+      "role": "行政助理、主任助理",
+      "organization": "四川大学西部农村卫生发展研究中心",
+      "bio": "行政助理，四川大学西部农村卫生发展研究中心主任助理。",
+      "contentId": "healthy-cities-page-119",
+      "source": "healthy-cities",
+      "assetId": "healthy-cities:00490-%E5%88%98%E6%B1%B6%E6%AC%A3.jpg",
+      "media": {
+        "originalAssetId": "healthy-cities:00490-%E5%88%98%E6%B1%B6%E6%AC%A3.jpg",
+        "displayAssetId": "healthy-cities:00490-%E5%88%98%E6%B1%B6%E6%AC%A3.jpg",
+        "thumbnailAssetId": "healthy-cities:00490-%E5%88%98%E6%B1%B6%E6%AC%A3.jpg"
+      },
+      "research": "",
+      "email": "heoagroup@126.com",
+      "centerId": "healthy-cities",
+      "titleRank": 3,
+      "isFeatured": false,
+      "status": "published",
+      "placements": [
+        "center"
+      ],
+      "sortOrder": 9,
+      "href": "/content/healthy-cities-page-119"
+    },
+    {
+      "id": "healthy-cities-member-28959",
+      "displayName": "杨伊里",
+      "role": "科研助理",
+      "organization": "四川大学健康城市发展研究中心",
+      "bio": "科研助理。",
+      "contentId": "healthy-cities-page-119",
+      "source": "healthy-cities",
+      "assetId": "healthy-cities:00491-%E6%9D%A8%E4%BC%8A%E9%87%8C.jpg",
+      "media": {
+        "originalAssetId": "healthy-cities:00491-%E6%9D%A8%E4%BC%8A%E9%87%8C.jpg",
+        "displayAssetId": "healthy-cities:00491-%E6%9D%A8%E4%BC%8A%E9%87%8C.jpg",
+        "thumbnailAssetId": "healthy-cities:00491-%E6%9D%A8%E4%BC%8A%E9%87%8C.jpg"
+      },
+      "research": "",
+      "email": "heoagroup@126.com",
+      "centerId": null,
+      "titleRank": 3,
+      "isFeatured": false,
+      "status": "archived",
+      "placements": [],
+      "sortOrder": 10,
+      "href": "/content/healthy-cities-page-119"
+    },
+    {
+      "id": "healthy-cities-member-28961",
+      "displayName": "樊洋涛",
+      "role": "行政助理、中心办公室副主任",
+      "organization": "四川大学健康城市发展研究中心",
+      "bio": "行政助理，四川大学健康城市发展研究中心办公室副主任。",
+      "contentId": "healthy-cities-page-119",
+      "source": "healthy-cities",
+      "assetId": "healthy-cities:00492-%E6%A8%8A%E6%B4%8B%E6%B6%9B.jpg",
+      "media": {
+        "originalAssetId": "healthy-cities:00492-%E6%A8%8A%E6%B4%8B%E6%B6%9B.jpg",
+        "displayAssetId": "healthy-cities:00492-%E6%A8%8A%E6%B4%8B%E6%B6%9B.jpg",
+        "thumbnailAssetId": "healthy-cities:00492-%E6%A8%8A%E6%B4%8B%E6%B6%9B.jpg"
+      },
+      "research": "",
+      "email": "heoagroup@126.com",
+      "centerId": null,
+      "titleRank": 3,
+      "isFeatured": false,
+      "status": "archived",
+      "placements": [],
+      "sortOrder": 11,
+      "href": "/content/healthy-cities-page-119"
+    }
+  ],
+  "centerMemberIds": [
+    "heoa-member-3544",
+    "heoa-member-3549",
+    "heoa-member-3548",
+    "heoa-member-3550",
+    "heoa-member-3547",
+    "healthy-cities-page-27937",
+    "heoa-member-10029",
+    "healthy-cities-page-28022",
+    "heoa-member-3552",
+    "healthy-cities-member-28960",
+    "heoa-member-v23-056",
+    "heoa-member-v23-012",
+    "heoa-member-v23-003",
+    "heoa-member-v23-055",
+    "heoa-member-v23-061"
+  ]
+}

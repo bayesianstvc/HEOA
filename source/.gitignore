@@ -1,0 +1,63 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+/.cache/
+*.tsbuildinfo
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local environment
+.env*
+
+# deployment and generated files
+.vercel
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/
+
+# Local migration archive and preview logs stay in the offline package.
+/offline-site/
+/preview-v03*.log
+/preview-v04*.log
+# Full migrated media remains in this verified offline package and the Sites build
+# archive; omit the duplicate binary tree from the source-repository push.
+/public/media/
+/sites-public/
+/sites-public-v22-display/
+/sites-public-v24-release/
+/sites-public-v24-web-release/
+/sites-public-v24-web-dev/
+/.media-stage-history/
+/sites-media-hq/
+/sites-media-display/
+/sites-media-display-82/
+/sites-media-display82-*.json
+/sites-media/
+/sites-media/**/*@*
+/sites-media/**/*%E
+/public/media/heoa/00768-*.
+/public/media/heoa/02395-*.

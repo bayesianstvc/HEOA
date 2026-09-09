@@ -1,0 +1,12 @@
+{
+  "method": "byte-identical consolidation; no image re-encoding",
+  "inputFiles": 1677,
+  "removedDuplicateFiles": 3,
+  "savedBytes": 2879758,
+  "verifiedUnchangedImages": 1336,
+  "mapping": {
+    "media/heoa/asset-03573-v22-display.pdf": "media/healthy-cities/asset-00353-v22-display.pdf",
+    "media/heoa/asset-03574-v22-display.docx": "media/healthy-cities/asset-00355-v22-display.docx",
+    "media/heoa/asset-03575-v22-display.docx": "media/healthy-cities/asset-00354-v22-display.docx"
+  }
+}
